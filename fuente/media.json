@@ -1,0 +1,4721 @@
+[
+ {
+  "id": 486,
+  "date": "2026-02-18T15:56:44",
+  "date_gmt": "2026-02-18T15:56:44",
+  "guid": {
+   "rendered": "https://anglocolombiano.com/wp-content/uploads/2022/06/image-1.png"
+  },
+  "modified": "2026-02-18T15:56:44",
+  "modified_gmt": "2026-02-18T15:56:44",
+  "slug": "image-3",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://anglocolombiano.com/arte-para-sonar-expresiones-de-la-infancia/image-3/",
+  "title": {
+   "rendered": "image"
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+   "_themeisle_gutenberg_block_has_review": false
+  },
+  "class_list": [
+   "post-486",
+   "attachment",
+   "type-attachment",
+   "status-inherit",
+   "hentry"
+  ],
+  "description": {
+   "rendered": "<p class=\"attachment\"><a href='https://anglocolombiano.com/wp-content/uploads/2022/06/image-1.png'><img decoding=\"async\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"https://anglocolombiano.com/wp-content/uploads/2022/06/image-1-300x216.png\" data-srcset=\"https://anglocolombiano.com/wp-content/uploads/2022/06/image-1-300x216.png 300w, https://anglocolombiano.com/wp-content/uploads/2022/06/image-1-1024x738.png 1024w, https://anglocolombiano.com/wp-content/uploads/2022/06/image-1-768x553.png 768w, https://anglocolombiano.com/wp-content/uploads/2022/06/image-1-1536x1107.png 1536w, https://anglocolombiano.com/wp-content/uploads/2022/06/image-1.png 2040w\" width=\"300\" height=\"216\" class=\"attachment-medium size-medium lazyload\" alt=\"\" sizes=\"(max-width: 300px) 100vw, 300px\"><noscript><img decoding=\"async\" width=\"300\" height=\"216\" src=\"https://anglocolombiano.com/wp-content/uploads/2022/06/image-1-300x216.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://anglocolombiano.com/wp-content/uploads/2022/06/image-1-300x216.png 300w, https://anglocolombiano.com/wp-content/uploads/2022/06/image-1-1024x738.png 1024w, https://anglocolombiano.com/wp-content/uploads/2022/06/image-1-768x553.png 768w, https://anglocolombiano.com/wp-content/uploads/2022/06/image-1-1536x1107.png 1536w, https://anglocolombiano.com/wp-content/uploads/2022/06/image-1.png 2040w\" sizes=\"(max-width: 300px) 100vw, 300px\"></noscript></a></p>\n"
+  },
+  "caption": {
+   "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/png",
+  "media_details": {
+   "width": 2040,
+   "height": 1470,
+   "file": "2022/06/image-1.png",
+   "filesize": 4136262,
+   "sizes": {
+    "medium": {
+     "file": "image-1-300x216.png",
+     "width": 300,
+     "height": 216,
+     "filesize": 140164,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2022/06/image-1-300x216.png"
+    },
+    "large": {
+     "file": "image-1-1024x738.png",
+     "width": 1024,
+     "height": 738,
+     "filesize": 1207518,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2022/06/image-1-1024x738.png"
+    },
+    "thumbnail": {
+     "file": "image-1-150x150.png",
+     "width": 150,
+     "height": 150,
+     "filesize": 51631,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2022/06/image-1-150x150.png"
+    },
+    "medium_large": {
+     "file": "image-1-768x553.png",
+     "width": 768,
+     "height": 553,
+     "filesize": 740627,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2022/06/image-1-768x553.png"
+    },
+    "1536x1536": {
+     "file": "image-1-1536x1107.png",
+     "width": 1536,
+     "height": 1107,
+     "filesize": 2344507,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2022/06/image-1-1536x1107.png"
+    },
+    "education-zone-banner": {
+     "file": "image-1-1920x692.png",
+     "width": 1920,
+     "height": 692,
+     "filesize": 1635669,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2022/06/image-1-1920x692.png"
+    },
+    "education-zone-image-full": {
+     "file": "image-1-1140x458.png",
+     "width": 1140,
+     "height": 458,
+     "filesize": 790067,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2022/06/image-1-1140x458.png"
+    },
+    "education-zone-image": {
+     "file": "image-1-750x458.png",
+     "width": 750,
+     "height": 458,
+     "filesize": 609812,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2022/06/image-1-750x458.png"
+    },
+    "education-zone-recent-post": {
+     "file": "image-1-70x70.png",
+     "width": 70,
+     "height": 70,
+     "filesize": 12969,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2022/06/image-1-70x70.png"
+    },
+    "education-zone-search-result": {
+     "file": "image-1-246x246.png",
+     "width": 246,
+     "height": 246,
+     "filesize": 126212,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2022/06/image-1-246x246.png"
+    },
+    "education-zone-featured-course": {
+     "file": "image-1-276x276.png",
+     "width": 276,
+     "height": 276,
+     "filesize": 155145,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2022/06/image-1-276x276.png"
+    },
+    "education-zone-testimonial": {
+     "file": "image-1-125x125.png",
+     "width": 125,
+     "height": 125,
+     "filesize": 37012,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2022/06/image-1-125x125.png"
+    },
+    "education-zone-blog-full": {
+     "file": "image-1-848x480.png",
+     "width": 848,
+     "height": 480,
+     "filesize": 696815,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2022/06/image-1-848x480.png"
+    },
+    "full": {
+     "file": "image-1.png",
+     "width": 2040,
+     "height": 1470,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2022/06/image-1.png"
+    }
+   },
+   "image_meta": {
+    "aperture": "0",
+    "credit": "",
+    "camera": "",
+    "caption": "",
+    "created_timestamp": "0",
+    "copyright": "",
+    "focal_length": "0",
+    "iso": "0",
+    "shutter_speed": "0",
+    "title": "",
+    "orientation": "0",
+    "keywords": []
+   }
+  },
+  "post": 479,
+  "source_url": "https://anglocolombiano.com/wp-content/uploads/2022/06/image-1.png",
+  "filename": "image-1.png",
+  "filesize": 4136262,
+  "_links": {
+   "self": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media/486",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/types/attachment"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/comments?post=486"
+    }
+   ],
+   "wp:attached-to": [
+    {
+     "embeddable": true,
+     "post_type": "post",
+     "id": 479,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/posts/479"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 485,
+  "date": "2026-02-18T15:56:04",
+  "date_gmt": "2026-02-18T15:56:04",
+  "guid": {
+   "rendered": "https://anglocolombiano.com/wp-content/uploads/2022/06/image.png"
+  },
+  "modified": "2026-02-18T15:56:04",
+  "modified_gmt": "2026-02-18T15:56:04",
+  "slug": "image-2",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://anglocolombiano.com/arte-para-sonar-expresiones-de-la-infancia/image-2/",
+  "title": {
+   "rendered": "image"
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+   "_themeisle_gutenberg_block_has_review": false
+  },
+  "class_list": [
+   "post-485",
+   "attachment",
+   "type-attachment",
+   "status-inherit",
+   "hentry"
+  ],
+  "description": {
+   "rendered": "<p class=\"attachment\"><a href='https://anglocolombiano.com/wp-content/uploads/2022/06/image.png'><img decoding=\"async\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"https://anglocolombiano.com/wp-content/uploads/2022/06/image-300x154.png\" data-srcset=\"https://anglocolombiano.com/wp-content/uploads/2022/06/image-300x154.png 300w, https://anglocolombiano.com/wp-content/uploads/2022/06/image-1024x526.png 1024w, https://anglocolombiano.com/wp-content/uploads/2022/06/image-768x395.png 768w, https://anglocolombiano.com/wp-content/uploads/2022/06/image.png 1492w\" width=\"300\" height=\"154\" class=\"attachment-medium size-medium lazyload\" alt=\"\" sizes=\"(max-width: 300px) 100vw, 300px\"><noscript><img decoding=\"async\" width=\"300\" height=\"154\" src=\"https://anglocolombiano.com/wp-content/uploads/2022/06/image-300x154.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://anglocolombiano.com/wp-content/uploads/2022/06/image-300x154.png 300w, https://anglocolombiano.com/wp-content/uploads/2022/06/image-1024x526.png 1024w, https://anglocolombiano.com/wp-content/uploads/2022/06/image-768x395.png 768w, https://anglocolombiano.com/wp-content/uploads/2022/06/image.png 1492w\" sizes=\"(max-width: 300px) 100vw, 300px\"></noscript></a></p>\n"
+  },
+  "caption": {
+   "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/png",
+  "media_details": {
+   "width": 1492,
+   "height": 767,
+   "file": "2022/06/image.png",
+   "filesize": 1137159,
+   "sizes": {
+    "medium": {
+     "file": "image-300x154.png",
+     "width": 300,
+     "height": 154,
+     "filesize": 80404,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2022/06/image-300x154.png"
+    },
+    "large": {
+     "file": "image-1024x526.png",
+     "width": 1024,
+     "height": 526,
+     "filesize": 565396,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2022/06/image-1024x526.png"
+    },
+    "thumbnail": {
+     "file": "image-150x150.png",
+     "width": 150,
+     "height": 150,
+     "filesize": 41798,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2022/06/image-150x150.png"
+    },
+    "medium_large": {
+     "file": "image-768x395.png",
+     "width": 768,
+     "height": 395,
+     "filesize": 365753,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2022/06/image-768x395.png"
+    },
+    "education-zone-banner": {
+     "file": "image-1492x692.png",
+     "width": 1492,
+     "height": 692,
+     "filesize": 890824,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2022/06/image-1492x692.png"
+    },
+    "education-zone-image-full": {
+     "file": "image-1140x458.png",
+     "width": 1140,
+     "height": 458,
+     "filesize": 536081,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2022/06/image-1140x458.png"
+    },
+    "education-zone-image": {
+     "file": "image-750x458.png",
+     "width": 750,
+     "height": 458,
+     "filesize": 403220,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2022/06/image-750x458.png"
+    },
+    "education-zone-recent-post": {
+     "file": "image-70x70.png",
+     "width": 70,
+     "height": 70,
+     "filesize": 11274,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2022/06/image-70x70.png"
+    },
+    "education-zone-search-result": {
+     "file": "image-246x246.png",
+     "width": 246,
+     "height": 246,
+     "filesize": 95190,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2022/06/image-246x246.png"
+    },
+    "education-zone-featured-course": {
+     "file": "image-276x276.png",
+     "width": 276,
+     "height": 276,
+     "filesize": 114454,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2022/06/image-276x276.png"
+    },
+    "education-zone-testimonial": {
+     "file": "image-125x125.png",
+     "width": 125,
+     "height": 125,
+     "filesize": 30779,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2022/06/image-125x125.png"
+    },
+    "education-zone-blog-full": {
+     "file": "image-848x480.png",
+     "width": 848,
+     "height": 480,
+     "filesize": 458372,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2022/06/image-848x480.png"
+    },
+    "full": {
+     "file": "image.png",
+     "width": 1492,
+     "height": 767,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2022/06/image.png"
+    }
+   },
+   "image_meta": {
+    "aperture": "0",
+    "credit": "",
+    "camera": "",
+    "caption": "",
+    "created_timestamp": "0",
+    "copyright": "",
+    "focal_length": "0",
+    "iso": "0",
+    "shutter_speed": "0",
+    "title": "",
+    "orientation": "0",
+    "keywords": []
+   }
+  },
+  "post": 479,
+  "source_url": "https://anglocolombiano.com/wp-content/uploads/2022/06/image.png",
+  "filename": "image.png",
+  "filesize": 1137159,
+  "_links": {
+   "self": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media/485",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/types/attachment"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/comments?post=485"
+    }
+   ],
+   "wp:attached-to": [
+    {
+     "embeddable": true,
+     "post_type": "post",
+     "id": 479,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/posts/479"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 483,
+  "date": "2026-02-18T15:55:05",
+  "date_gmt": "2026-02-18T15:55:05",
+  "guid": {
+   "rendered": "https://anglocolombiano.com/wp-content/uploads/2023/06/image.png"
+  },
+  "modified": "2026-02-18T15:55:05",
+  "modified_gmt": "2026-02-18T15:55:05",
+  "slug": "image",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://anglocolombiano.com/arte-para-sonar-expresiones-de-la-infancia/image/",
+  "title": {
+   "rendered": "image"
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+   "_themeisle_gutenberg_block_has_review": false
+  },
+  "class_list": [
+   "post-483",
+   "attachment",
+   "type-attachment",
+   "status-inherit",
+   "hentry"
+  ],
+  "description": {
+   "rendered": "<p class=\"attachment\"><a href='https://anglocolombiano.com/wp-content/uploads/2023/06/image.png'><img decoding=\"async\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"https://anglocolombiano.com/wp-content/uploads/2023/06/image-300x265.png\" data-srcset=\"https://anglocolombiano.com/wp-content/uploads/2023/06/image-300x265.png 300w, https://anglocolombiano.com/wp-content/uploads/2023/06/image-1024x906.png 1024w, https://anglocolombiano.com/wp-content/uploads/2023/06/image-768x679.png 768w, https://anglocolombiano.com/wp-content/uploads/2023/06/image.png 1532w\" width=\"300\" height=\"265\" class=\"attachment-medium size-medium lazyload\" alt=\"\" sizes=\"(max-width: 300px) 100vw, 300px\"><noscript><img decoding=\"async\" width=\"300\" height=\"265\" src=\"https://anglocolombiano.com/wp-content/uploads/2023/06/image-300x265.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://anglocolombiano.com/wp-content/uploads/2023/06/image-300x265.png 300w, https://anglocolombiano.com/wp-content/uploads/2023/06/image-1024x906.png 1024w, https://anglocolombiano.com/wp-content/uploads/2023/06/image-768x679.png 768w, https://anglocolombiano.com/wp-content/uploads/2023/06/image.png 1532w\" sizes=\"(max-width: 300px) 100vw, 300px\"></noscript></a></p>\n"
+  },
+  "caption": {
+   "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/png",
+  "media_details": {
+   "width": 1532,
+   "height": 1355,
+   "file": "2023/06/image.png",
+   "filesize": 1339398,
+   "sizes": {
+    "medium": {
+     "file": "image-300x265.png",
+     "width": 300,
+     "height": 265,
+     "filesize": 107260,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2023/06/image-300x265.png"
+    },
+    "large": {
+     "file": "image-1024x906.png",
+     "width": 1024,
+     "height": 906,
+     "filesize": 695871,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2023/06/image-1024x906.png"
+    },
+    "thumbnail": {
+     "file": "image-150x150.png",
+     "width": 150,
+     "height": 150,
+     "filesize": 38538,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2023/06/image-150x150.png"
+    },
+    "medium_large": {
+     "file": "image-768x679.png",
+     "width": 768,
+     "height": 679,
+     "filesize": 449135,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2023/06/image-768x679.png"
+    },
+    "education-zone-banner": {
+     "file": "image-1532x692.png",
+     "width": 1532,
+     "height": 692,
+     "filesize": 762629,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2023/06/image-1532x692.png"
+    },
+    "education-zone-image-full": {
+     "file": "image-1140x458.png",
+     "width": 1140,
+     "height": 458,
+     "filesize": 449997,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2023/06/image-1140x458.png"
+    },
+    "education-zone-image": {
+     "file": "image-750x458.png",
+     "width": 750,
+     "height": 458,
+     "filesize": 345956,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2023/06/image-750x458.png"
+    },
+    "education-zone-recent-post": {
+     "file": "image-70x70.png",
+     "width": 70,
+     "height": 70,
+     "filesize": 10525,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2023/06/image-70x70.png"
+    },
+    "education-zone-search-result": {
+     "file": "image-246x246.png",
+     "width": 246,
+     "height": 246,
+     "filesize": 86086,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2023/06/image-246x246.png"
+    },
+    "education-zone-featured-course": {
+     "file": "image-276x276.png",
+     "width": 276,
+     "height": 276,
+     "filesize": 103544,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2023/06/image-276x276.png"
+    },
+    "education-zone-testimonial": {
+     "file": "image-125x125.png",
+     "width": 125,
+     "height": 125,
+     "filesize": 28340,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2023/06/image-125x125.png"
+    },
+    "education-zone-blog-full": {
+     "file": "image-848x480.png",
+     "width": 848,
+     "height": 480,
+     "filesize": 392634,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2023/06/image-848x480.png"
+    },
+    "full": {
+     "file": "image.png",
+     "width": 1532,
+     "height": 1355,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2023/06/image.png"
+    }
+   },
+   "image_meta": {
+    "aperture": "0",
+    "credit": "",
+    "camera": "",
+    "caption": "",
+    "created_timestamp": "0",
+    "copyright": "",
+    "focal_length": "0",
+    "iso": "0",
+    "shutter_speed": "0",
+    "title": "",
+    "orientation": "0",
+    "keywords": []
+   }
+  },
+  "post": 479,
+  "source_url": "https://anglocolombiano.com/wp-content/uploads/2023/06/image.png",
+  "filename": "image.png",
+  "filesize": 1339398,
+  "_links": {
+   "self": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media/483",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/types/attachment"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/comments?post=483"
+    }
+   ],
+   "wp:attached-to": [
+    {
+     "embeddable": true,
+     "post_type": "post",
+     "id": 479,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/posts/479"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 469,
+  "date": "2024-12-06T21:54:37",
+  "date_gmt": "2024-12-06T21:54:37",
+  "guid": {
+   "rendered": "https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-akad-scaled-3.jpg"
+  },
+  "modified": "2024-12-06T21:54:37",
+  "modified_gmt": "2024-12-06T21:54:37",
+  "slug": "banner-template-design-with-children-in-the-park-4",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://anglocolombiano.com/banner-template-design-with-children-in-the-park-4/",
+  "title": {
+   "rendered": "Banner template design with children in the park"
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+   "_themeisle_gutenberg_block_has_review": false
+  },
+  "class_list": [
+   "post-469",
+   "attachment",
+   "type-attachment",
+   "status-inherit",
+   "hentry"
+  ],
+  "description": {
+   "rendered": "<p class=\"attachment\"><a href='https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-akad-scaled-3.jpg'><img decoding=\"async\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-akad-scaled-3-300x108.jpg\" data-srcset=\"https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-akad-scaled-3-300x108.jpg 300w, https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-akad-scaled-3-1024x369.jpg 1024w, https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-akad-scaled-3-768x277.jpg 768w, https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-akad-scaled-3-1536x554.jpg 1536w, https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-akad-scaled-3.jpg 1920w\" width=\"300\" height=\"108\" class=\"attachment-medium size-medium lazyload\" alt=\"\" sizes=\"(max-width: 300px) 100vw, 300px\"><noscript><img decoding=\"async\" width=\"300\" height=\"108\" src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-akad-scaled-3-300x108.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-akad-scaled-3-300x108.jpg 300w, https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-akad-scaled-3-1024x369.jpg 1024w, https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-akad-scaled-3-768x277.jpg 768w, https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-akad-scaled-3-1536x554.jpg 1536w, https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-akad-scaled-3.jpg 1920w\" sizes=\"(max-width: 300px) 100vw, 300px\"></noscript></a></p>\n<p>https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-akad-scaled-3.jpg</p>\n"
+  },
+  "caption": {
+   "rendered": "<p>Banner template design with children in the park illustration</p>\n"
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+   "width": 1920,
+   "height": 692,
+   "file": "2024/09/cropped-akad-scaled-3.jpg",
+   "filesize": 182242,
+   "sizes": {
+    "medium": {
+     "file": "cropped-akad-scaled-3-300x108.jpg",
+     "width": 300,
+     "height": 108,
+     "filesize": 11657,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-akad-scaled-3-300x108.jpg"
+    },
+    "large": {
+     "file": "cropped-akad-scaled-3-1024x369.jpg",
+     "width": 1024,
+     "height": 369,
+     "filesize": 71949,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-akad-scaled-3-1024x369.jpg"
+    },
+    "thumbnail": {
+     "file": "cropped-akad-scaled-3-150x150.jpg",
+     "width": 150,
+     "height": 150,
+     "filesize": 6190,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-akad-scaled-3-150x150.jpg"
+    },
+    "medium_large": {
+     "file": "cropped-akad-scaled-3-768x277.jpg",
+     "width": 768,
+     "height": 277,
+     "filesize": 47974,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-akad-scaled-3-768x277.jpg"
+    },
+    "1536x1536": {
+     "file": "cropped-akad-scaled-3-1536x554.jpg",
+     "width": 1536,
+     "height": 554,
+     "filesize": 124756,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-akad-scaled-3-1536x554.jpg"
+    },
+    "education-zone-image-full": {
+     "file": "cropped-akad-scaled-3-1140x458.jpg",
+     "width": 1140,
+     "height": 458,
+     "filesize": 86747,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-akad-scaled-3-1140x458.jpg"
+    },
+    "education-zone-image": {
+     "file": "cropped-akad-scaled-3-750x458.jpg",
+     "width": 750,
+     "height": 458,
+     "filesize": 47803,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-akad-scaled-3-750x458.jpg"
+    },
+    "education-zone-recent-post": {
+     "file": "cropped-akad-scaled-3-70x70.jpg",
+     "width": 70,
+     "height": 70,
+     "filesize": 2393,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-akad-scaled-3-70x70.jpg"
+    },
+    "education-zone-search-result": {
+     "file": "cropped-akad-scaled-3-246x246.jpg",
+     "width": 246,
+     "height": 246,
+     "filesize": 12174,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-akad-scaled-3-246x246.jpg"
+    },
+    "education-zone-featured-course": {
+     "file": "cropped-akad-scaled-3-276x276.jpg",
+     "width": 276,
+     "height": 276,
+     "filesize": 14458,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-akad-scaled-3-276x276.jpg"
+    },
+    "education-zone-testimonial": {
+     "file": "cropped-akad-scaled-3-125x125.jpg",
+     "width": 125,
+     "height": 125,
+     "filesize": 4921,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-akad-scaled-3-125x125.jpg"
+    },
+    "education-zone-blog-full": {
+     "file": "cropped-akad-scaled-3-848x480.jpg",
+     "width": 848,
+     "height": 480,
+     "filesize": 55551,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-akad-scaled-3-848x480.jpg"
+    },
+    "full": {
+     "file": "cropped-akad-scaled-3.jpg",
+     "width": 1920,
+     "height": 692,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-akad-scaled-3.jpg"
+    }
+   },
+   "image_meta": {
+    "aperture": "0",
+    "credit": "",
+    "camera": "",
+    "caption": "",
+    "created_timestamp": "0",
+    "copyright": "",
+    "focal_length": "0",
+    "iso": "0",
+    "shutter_speed": "0",
+    "title": "",
+    "orientation": "0",
+    "keywords": []
+   },
+   "attachment_parent": 453
+  },
+  "post": null,
+  "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-akad-scaled-3.jpg",
+  "filename": "cropped-akad-scaled-3.jpg",
+  "filesize": 182242,
+  "_links": {
+   "self": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media/469",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/types/attachment"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/comments?post=469"
+    }
+   ]
+  }
+ },
+ {
+  "id": 454,
+  "date": "2024-09-09T16:53:56",
+  "date_gmt": "2024-09-09T16:53:56",
+  "guid": {
+   "rendered": "https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-1.png"
+  },
+  "modified": "2024-09-09T16:53:56",
+  "modified_gmt": "2024-09-09T16:53:56",
+  "slug": "captura-de-pantalla-2024-04-04-024727-2",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://anglocolombiano.com/?attachment_id=454",
+  "title": {
+   "rendered": "Captura-de-pantalla-2024-04-04-024727"
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+   "_themeisle_gutenberg_block_has_review": false
+  },
+  "class_list": [
+   "post-454",
+   "attachment",
+   "type-attachment",
+   "status-inherit",
+   "hentry"
+  ],
+  "description": {
+   "rendered": "<p class=\"attachment\"><a href='https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-1.png'><img decoding=\"async\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-1-300x298.png\" data-srcset=\"https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-1-300x298.png 300w, https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-1-70x70.png 70w, https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-1-125x125.png 125w, https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-1-150x150.png 150w, https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-1.png 514w\" width=\"300\" height=\"298\" class=\"attachment-medium size-medium lazyload\" alt=\"\" sizes=\"(max-width: 300px) 100vw, 300px\"><noscript><img decoding=\"async\" width=\"300\" height=\"298\" src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-1-300x298.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-1-300x298.png 300w, https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-1-70x70.png 70w, https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-1-125x125.png 125w, https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-1-150x150.png 150w, https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-1.png 514w\" sizes=\"(max-width: 300px) 100vw, 300px\"></noscript></a></p>\n"
+  },
+  "caption": {
+   "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/png",
+  "media_details": {
+   "width": 514,
+   "height": 511,
+   "file": "2024/09/Captura-de-pantalla-2024-04-04-024727-1.png",
+   "filesize": 446735,
+   "sizes": {
+    "education-zone-image-full": {
+     "file": "Captura-de-pantalla-2024-04-04-024727-1-514x458.png",
+     "width": 514,
+     "height": 458,
+     "filesize": 382790,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-1-514x458.png"
+    },
+    "education-zone-image": {
+     "file": "Captura-de-pantalla-2024-04-04-024727-1-514x458.png",
+     "width": 514,
+     "height": 458,
+     "filesize": 382790,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-1-514x458.png"
+    },
+    "education-zone-recent-post": {
+     "file": "Captura-de-pantalla-2024-04-04-024727-1-70x70.png",
+     "width": 70,
+     "height": 70,
+     "filesize": 11100,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-1-70x70.png"
+    },
+    "education-zone-search-result": {
+     "file": "Captura-de-pantalla-2024-04-04-024727-1-246x246.png",
+     "width": 246,
+     "height": 246,
+     "filesize": 110768,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-1-246x246.png"
+    },
+    "education-zone-featured-course": {
+     "file": "Captura-de-pantalla-2024-04-04-024727-1-276x276.png",
+     "width": 276,
+     "height": 276,
+     "filesize": 135537,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-1-276x276.png"
+    },
+    "education-zone-testimonial": {
+     "file": "Captura-de-pantalla-2024-04-04-024727-1-125x125.png",
+     "width": 125,
+     "height": 125,
+     "filesize": 32442,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-1-125x125.png"
+    },
+    "education-zone-blog-full": {
+     "file": "Captura-de-pantalla-2024-04-04-024727-1-514x480.png",
+     "width": 514,
+     "height": 480,
+     "filesize": 393775,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-1-514x480.png"
+    },
+    "thumbnail": {
+     "file": "Captura-de-pantalla-2024-04-04-024727-1-150x150.png",
+     "width": 150,
+     "height": 150,
+     "filesize": 45581,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-1-150x150.png"
+    },
+    "medium": {
+     "file": "Captura-de-pantalla-2024-04-04-024727-1-300x298.png",
+     "width": 300,
+     "height": 298,
+     "filesize": 155439,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-1-300x298.png"
+    },
+    "full": {
+     "file": "Captura-de-pantalla-2024-04-04-024727-1.png",
+     "width": 514,
+     "height": 511,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-1.png"
+    }
+   },
+   "image_meta": {
+    "aperture": "0",
+    "credit": "",
+    "camera": "",
+    "caption": "",
+    "created_timestamp": "0",
+    "copyright": "",
+    "focal_length": "0",
+    "iso": "0",
+    "shutter_speed": "0",
+    "title": "",
+    "orientation": "0",
+    "keywords": []
+   }
+  },
+  "post": 437,
+  "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-1.png",
+  "filename": "Captura-de-pantalla-2024-04-04-024727-1.png",
+  "filesize": 446735,
+  "_links": {
+   "self": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media/454",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/types/attachment"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/comments?post=454"
+    }
+   ],
+   "wp:attached-to": [
+    {
+     "embeddable": true,
+     "post_type": "wp_template",
+     "id": 437,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/templates/437"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 453,
+  "date": "2024-09-09T16:52:16",
+  "date_gmt": "2024-09-09T16:52:16",
+  "guid": {
+   "rendered": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-3.jpg"
+  },
+  "modified": "2024-09-09T16:52:16",
+  "modified_gmt": "2024-09-09T16:52:16",
+  "slug": "banner-template-design-with-children-in-the-park-3",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://anglocolombiano.com/?attachment_id=453",
+  "title": {
+   "rendered": "Banner template design with children in the park"
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+   "_themeisle_gutenberg_block_has_review": false
+  },
+  "class_list": [
+   "post-453",
+   "attachment",
+   "type-attachment",
+   "status-inherit",
+   "hentry"
+  ],
+  "description": {
+   "rendered": "<p class=\"attachment\"><a href='https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-3.jpg'><img decoding=\"async\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-3-300x172.jpg\" data-srcset=\"https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-3-300x172.jpg 300w, https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-3-768x439.jpg 768w, https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-3-1024x586.jpg 1024w, https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-3-1536x878.jpg 1536w, https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-3-2048x1171.jpg 2048w\" width=\"300\" height=\"172\" class=\"attachment-medium size-medium lazyload\" alt=\"\" sizes=\"(max-width: 300px) 100vw, 300px\"><noscript><img decoding=\"async\" width=\"300\" height=\"172\" src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-3-300x172.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-3-300x172.jpg 300w, https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-3-768x439.jpg 768w, https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-3-1024x586.jpg 1024w, https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-3-1536x878.jpg 1536w, https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-3-2048x1171.jpg 2048w\" sizes=\"(max-width: 300px) 100vw, 300px\"></noscript></a></p>\n"
+  },
+  "caption": {
+   "rendered": "<p>Banner template design with children in the park illustration</p>\n"
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+   "width": 2560,
+   "height": 1464,
+   "file": "2024/09/akad-scaled-3.jpg",
+   "filesize": 435623,
+   "sizes": {
+    "education-zone-banner": {
+     "file": "akad-scaled-3-1920x692.jpg",
+     "width": 1920,
+     "height": 692,
+     "filesize": 180870,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-3-1920x692.jpg"
+    },
+    "education-zone-image-full": {
+     "file": "akad-scaled-3-1140x458.jpg",
+     "width": 1140,
+     "height": 458,
+     "filesize": 95088,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-3-1140x458.jpg"
+    },
+    "education-zone-image": {
+     "file": "akad-scaled-3-750x458.jpg",
+     "width": 750,
+     "height": 458,
+     "filesize": 77480,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-3-750x458.jpg"
+    },
+    "education-zone-recent-post": {
+     "file": "akad-scaled-3-70x70.jpg",
+     "width": 70,
+     "height": 70,
+     "filesize": 2883,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-3-70x70.jpg"
+    },
+    "education-zone-search-result": {
+     "file": "akad-scaled-3-246x246.jpg",
+     "width": 246,
+     "height": 246,
+     "filesize": 16903,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-3-246x246.jpg"
+    },
+    "education-zone-featured-course": {
+     "file": "akad-scaled-3-276x276.jpg",
+     "width": 276,
+     "height": 276,
+     "filesize": 19727,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-3-276x276.jpg"
+    },
+    "education-zone-testimonial": {
+     "file": "akad-scaled-3-125x125.jpg",
+     "width": 125,
+     "height": 125,
+     "filesize": 6049,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-3-125x125.jpg"
+    },
+    "education-zone-blog-full": {
+     "file": "akad-scaled-3-848x480.jpg",
+     "width": 848,
+     "height": 480,
+     "filesize": 87312,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-3-848x480.jpg"
+    },
+    "thumbnail": {
+     "file": "akad-scaled-3-150x150.jpg",
+     "width": 150,
+     "height": 150,
+     "filesize": 7939,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-3-150x150.jpg"
+    },
+    "medium": {
+     "file": "akad-scaled-3-300x172.jpg",
+     "width": 300,
+     "height": 172,
+     "filesize": 18413,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-3-300x172.jpg"
+    },
+    "medium_large": {
+     "file": "akad-scaled-3-768x439.jpg",
+     "width": 768,
+     "height": 439,
+     "filesize": 76361,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-3-768x439.jpg"
+    },
+    "large": {
+     "file": "akad-scaled-3-1024x586.jpg",
+     "width": 1024,
+     "height": 586,
+     "filesize": 117537,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-3-1024x586.jpg"
+    },
+    "1536x1536": {
+     "file": "akad-scaled-3-1536x878.jpg",
+     "width": 1536,
+     "height": 878,
+     "filesize": 206274,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-3-1536x878.jpg"
+    },
+    "2048x2048": {
+     "file": "akad-scaled-3-2048x1171.jpg",
+     "width": 2048,
+     "height": 1171,
+     "filesize": 307922,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-3-2048x1171.jpg"
+    },
+    "full": {
+     "file": "akad-scaled-3.jpg",
+     "width": 2560,
+     "height": 1464,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-3.jpg"
+    }
+   },
+   "image_meta": {
+    "aperture": "0",
+    "credit": "",
+    "camera": "",
+    "caption": "Banner template design with children in the park illustration",
+    "created_timestamp": "0",
+    "copyright": "",
+    "focal_length": "0",
+    "iso": "0",
+    "shutter_speed": "0",
+    "title": "Banner template design with children in the park",
+    "orientation": "1",
+    "keywords": [
+     "board",
+     "sign",
+     "isolated",
+     "kids",
+     "children",
+     "frame",
+     "student",
+     "boy",
+     "girl",
+     "tree",
+     "park",
+     "child",
+     "friend",
+     "school",
+     "diversity",
+     "group",
+     "many",
+     "friends",
+     "blank",
+     "scene",
+     "outside",
+     "signage",
+     "border",
+     "pupil",
+     "male",
+     "boyhood",
+     "boys",
+     "cute",
+     "female",
+     "water",
+     "natural",
+     "childhood",
+     "youth",
+     "little",
+     "mate",
+     "pals",
+     "education",
+     "educational",
+     "primary",
+     "series",
+     "object",
+     "people",
+     "relationship",
+     "youthful",
+     "environment",
+     "landscape",
+     "illustration",
+     "vector",
+     "EPS",
+     "cartoon"
+    ]
+   }
+  },
+  "post": 437,
+  "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-3.jpg",
+  "filename": "akad-scaled-3.jpg",
+  "filesize": 435623,
+  "_links": {
+   "self": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media/453",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/types/attachment"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/comments?post=453"
+    }
+   ],
+   "wp:attached-to": [
+    {
+     "embeddable": true,
+     "post_type": "wp_template",
+     "id": 437,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/templates/437"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 452,
+  "date": "2024-09-09T16:52:05",
+  "date_gmt": "2024-09-09T16:52:05",
+  "guid": {
+   "rendered": "https://anglocolombiano.com/wp-content/uploads/2024/09/colegio-cristiano-anglocolombiano.jpg"
+  },
+  "modified": "2024-09-09T16:52:05",
+  "modified_gmt": "2024-09-09T16:52:05",
+  "slug": "colegio-cristiano-anglocolombiano",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://anglocolombiano.com/?attachment_id=452",
+  "title": {
+   "rendered": "colegio cristiano anglocolombiano"
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+   "_themeisle_gutenberg_block_has_review": false
+  },
+  "class_list": [
+   "post-452",
+   "attachment",
+   "type-attachment",
+   "status-inherit",
+   "hentry"
+  ],
+  "description": {
+   "rendered": "<p class=\"attachment\"><a href='https://anglocolombiano.com/wp-content/uploads/2024/09/colegio-cristiano-anglocolombiano.jpg'><img decoding=\"async\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/colegio-cristiano-anglocolombiano-300x105.jpg\" data-srcset=\"https://anglocolombiano.com/wp-content/uploads/2024/09/colegio-cristiano-anglocolombiano-300x105.jpg 300w, https://anglocolombiano.com/wp-content/uploads/2024/09/colegio-cristiano-anglocolombiano.jpg 380w\" width=\"300\" height=\"105\" class=\"attachment-medium size-medium lazyload\" alt=\"\" sizes=\"(max-width: 300px) 100vw, 300px\"><noscript><img decoding=\"async\" width=\"300\" height=\"105\" src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/colegio-cristiano-anglocolombiano-300x105.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://anglocolombiano.com/wp-content/uploads/2024/09/colegio-cristiano-anglocolombiano-300x105.jpg 300w, https://anglocolombiano.com/wp-content/uploads/2024/09/colegio-cristiano-anglocolombiano.jpg 380w\" sizes=\"(max-width: 300px) 100vw, 300px\"></noscript></a></p>\n"
+  },
+  "caption": {
+   "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+   "width": 380,
+   "height": 133,
+   "file": "2024/09/colegio-cristiano-anglocolombiano.jpg",
+   "filesize": 7791,
+   "sizes": {
+    "education-zone-recent-post": {
+     "file": "colegio-cristiano-anglocolombiano-70x70.jpg",
+     "width": 70,
+     "height": 70,
+     "filesize": 1839,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/colegio-cristiano-anglocolombiano-70x70.jpg"
+    },
+    "education-zone-search-result": {
+     "file": "colegio-cristiano-anglocolombiano-246x133.jpg",
+     "width": 246,
+     "height": 133,
+     "filesize": 6812,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/colegio-cristiano-anglocolombiano-246x133.jpg"
+    },
+    "education-zone-featured-course": {
+     "file": "colegio-cristiano-anglocolombiano-276x133.jpg",
+     "width": 276,
+     "height": 133,
+     "filesize": 7900,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/colegio-cristiano-anglocolombiano-276x133.jpg"
+    },
+    "education-zone-testimonial": {
+     "file": "colegio-cristiano-anglocolombiano-125x125.jpg",
+     "width": 125,
+     "height": 125,
+     "filesize": 3369,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/colegio-cristiano-anglocolombiano-125x125.jpg"
+    },
+    "thumbnail": {
+     "file": "colegio-cristiano-anglocolombiano-150x133.jpg",
+     "width": 150,
+     "height": 133,
+     "filesize": 4444,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/colegio-cristiano-anglocolombiano-150x133.jpg"
+    },
+    "medium": {
+     "file": "colegio-cristiano-anglocolombiano-300x105.jpg",
+     "width": 300,
+     "height": 105,
+     "filesize": 7314,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/colegio-cristiano-anglocolombiano-300x105.jpg"
+    },
+    "full": {
+     "file": "colegio-cristiano-anglocolombiano.jpg",
+     "width": 380,
+     "height": 133,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/colegio-cristiano-anglocolombiano.jpg"
+    }
+   },
+   "image_meta": {
+    "aperture": "0",
+    "credit": "",
+    "camera": "",
+    "caption": "",
+    "created_timestamp": "0",
+    "copyright": "",
+    "focal_length": "0",
+    "iso": "0",
+    "shutter_speed": "0",
+    "title": "",
+    "orientation": "0",
+    "keywords": []
+   }
+  },
+  "post": 437,
+  "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/colegio-cristiano-anglocolombiano.jpg",
+  "filename": "colegio-cristiano-anglocolombiano.jpg",
+  "filesize": 7791,
+  "_links": {
+   "self": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media/452",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/types/attachment"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/comments?post=452"
+    }
+   ],
+   "wp:attached-to": [
+    {
+     "embeddable": true,
+     "post_type": "wp_template",
+     "id": 437,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/templates/437"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 451,
+  "date": "2024-09-09T16:51:38",
+  "date_gmt": "2024-09-09T16:51:38",
+  "guid": {
+   "rendered": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-1-2.jpeg"
+  },
+  "modified": "2024-09-09T16:51:38",
+  "modified_gmt": "2024-09-09T16:51:38",
+  "slug": "images-1-3",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://anglocolombiano.com/?attachment_id=451",
+  "title": {
+   "rendered": "images (1)"
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+   "_themeisle_gutenberg_block_has_review": false
+  },
+  "class_list": [
+   "post-451",
+   "attachment",
+   "type-attachment",
+   "status-inherit",
+   "hentry"
+  ],
+  "description": {
+   "rendered": "<p class=\"attachment\"><a href='https://anglocolombiano.com/wp-content/uploads/2024/09/images-1-2.jpeg'><img decoding=\"async\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/images-1-2.jpeg\" width=\"227\" height=\"222\" class=\"attachment-medium size-medium lazyload\" alt=\"\"><noscript><img decoding=\"async\" width=\"227\" height=\"222\" src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/images-1-2.jpeg\" class=\"attachment-medium size-medium\" alt=\"\"></noscript></a></p>\n"
+  },
+  "caption": {
+   "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+   "width": 227,
+   "height": 222,
+   "file": "2024/09/images-1-2.jpeg",
+   "filesize": 11732,
+   "sizes": {
+    "education-zone-recent-post": {
+     "file": "images-1-2-70x70.jpeg",
+     "width": 70,
+     "height": 70,
+     "filesize": 2333,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-1-2-70x70.jpeg"
+    },
+    "education-zone-testimonial": {
+     "file": "images-1-2-125x125.jpeg",
+     "width": 125,
+     "height": 125,
+     "filesize": 4881,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-1-2-125x125.jpeg"
+    },
+    "thumbnail": {
+     "file": "images-1-2-150x150.jpeg",
+     "width": 150,
+     "height": 150,
+     "filesize": 6342,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-1-2-150x150.jpeg"
+    },
+    "full": {
+     "file": "images-1-2.jpeg",
+     "width": 227,
+     "height": 222,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-1-2.jpeg"
+    }
+   },
+   "image_meta": {
+    "aperture": "0",
+    "credit": "",
+    "camera": "",
+    "caption": "",
+    "created_timestamp": "0",
+    "copyright": "",
+    "focal_length": "0",
+    "iso": "0",
+    "shutter_speed": "0",
+    "title": "",
+    "orientation": "0",
+    "keywords": []
+   }
+  },
+  "post": 437,
+  "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-1-2.jpeg",
+  "filename": "images-1-2.jpeg",
+  "filesize": 11732,
+  "_links": {
+   "self": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media/451",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/types/attachment"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/comments?post=451"
+    }
+   ],
+   "wp:attached-to": [
+    {
+     "embeddable": true,
+     "post_type": "wp_template",
+     "id": 437,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/templates/437"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 450,
+  "date": "2024-09-09T16:42:16",
+  "date_gmt": "2024-09-09T16:42:16",
+  "guid": {
+   "rendered": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-6.jpeg"
+  },
+  "modified": "2024-09-09T16:42:16",
+  "modified_gmt": "2024-09-09T16:42:16",
+  "slug": "images-6",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://anglocolombiano.com/?attachment_id=450",
+  "title": {
+   "rendered": "images (6)"
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+   "_themeisle_gutenberg_block_has_review": false
+  },
+  "class_list": [
+   "post-450",
+   "attachment",
+   "type-attachment",
+   "status-inherit",
+   "hentry"
+  ],
+  "description": {
+   "rendered": "<p class=\"attachment\"><a href='https://anglocolombiano.com/wp-content/uploads/2024/09/images-6.jpeg'><img decoding=\"async\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/images-6.jpeg\" width=\"240\" height=\"210\" class=\"attachment-medium size-medium lazyload\" alt=\"\"><noscript><img decoding=\"async\" width=\"240\" height=\"210\" src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/images-6.jpeg\" class=\"attachment-medium size-medium\" alt=\"\"></noscript></a></p>\n"
+  },
+  "caption": {
+   "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+   "width": 240,
+   "height": 210,
+   "file": "2024/09/images-6.jpeg",
+   "filesize": 13556,
+   "sizes": {
+    "education-zone-recent-post": {
+     "file": "images-6-70x70.jpeg",
+     "width": 70,
+     "height": 70,
+     "filesize": 3281,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-6-70x70.jpeg"
+    },
+    "education-zone-testimonial": {
+     "file": "images-6-125x125.jpeg",
+     "width": 125,
+     "height": 125,
+     "filesize": 7262,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-6-125x125.jpeg"
+    },
+    "thumbnail": {
+     "file": "images-6-150x150.jpeg",
+     "width": 150,
+     "height": 150,
+     "filesize": 9593,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-6-150x150.jpeg"
+    },
+    "full": {
+     "file": "images-6.jpeg",
+     "width": 240,
+     "height": 210,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-6.jpeg"
+    }
+   },
+   "image_meta": {
+    "aperture": "0",
+    "credit": "",
+    "camera": "",
+    "caption": "",
+    "created_timestamp": "0",
+    "copyright": "",
+    "focal_length": "0",
+    "iso": "0",
+    "shutter_speed": "0",
+    "title": "",
+    "orientation": "0",
+    "keywords": []
+   }
+  },
+  "post": 437,
+  "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-6.jpeg",
+  "filename": "images-6.jpeg",
+  "filesize": 13556,
+  "_links": {
+   "self": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media/450",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/types/attachment"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/comments?post=450"
+    }
+   ],
+   "wp:attached-to": [
+    {
+     "embeddable": true,
+     "post_type": "wp_template",
+     "id": 437,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/templates/437"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 449,
+  "date": "2024-09-09T16:42:02",
+  "date_gmt": "2024-09-09T16:42:02",
+  "guid": {
+   "rendered": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-4.jpeg"
+  },
+  "modified": "2024-09-09T16:42:02",
+  "modified_gmt": "2024-09-09T16:42:02",
+  "slug": "images-4",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://anglocolombiano.com/?attachment_id=449",
+  "title": {
+   "rendered": "images (4)"
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+   "_themeisle_gutenberg_block_has_review": false
+  },
+  "class_list": [
+   "post-449",
+   "attachment",
+   "type-attachment",
+   "status-inherit",
+   "hentry"
+  ],
+  "description": {
+   "rendered": "<p class=\"attachment\"><a href='https://anglocolombiano.com/wp-content/uploads/2024/09/images-4.jpeg'><img decoding=\"async\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/images-4.jpeg\" width=\"247\" height=\"204\" class=\"attachment-medium size-medium lazyload\" alt=\"\"><noscript><img decoding=\"async\" width=\"247\" height=\"204\" src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/images-4.jpeg\" class=\"attachment-medium size-medium\" alt=\"\"></noscript></a></p>\n"
+  },
+  "caption": {
+   "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+   "width": 247,
+   "height": 204,
+   "file": "2024/09/images-4.jpeg",
+   "filesize": 12775,
+   "sizes": {
+    "education-zone-recent-post": {
+     "file": "images-4-70x70.jpeg",
+     "width": 70,
+     "height": 70,
+     "filesize": 3148,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-4-70x70.jpeg"
+    },
+    "education-zone-testimonial": {
+     "file": "images-4-125x125.jpeg",
+     "width": 125,
+     "height": 125,
+     "filesize": 7101,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-4-125x125.jpeg"
+    },
+    "thumbnail": {
+     "file": "images-4-150x150.jpeg",
+     "width": 150,
+     "height": 150,
+     "filesize": 9302,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-4-150x150.jpeg"
+    },
+    "full": {
+     "file": "images-4.jpeg",
+     "width": 247,
+     "height": 204,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-4.jpeg"
+    }
+   },
+   "image_meta": {
+    "aperture": "0",
+    "credit": "",
+    "camera": "",
+    "caption": "",
+    "created_timestamp": "0",
+    "copyright": "",
+    "focal_length": "0",
+    "iso": "0",
+    "shutter_speed": "0",
+    "title": "",
+    "orientation": "0",
+    "keywords": []
+   }
+  },
+  "post": 437,
+  "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-4.jpeg",
+  "filename": "images-4.jpeg",
+  "filesize": 12775,
+  "_links": {
+   "self": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media/449",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/types/attachment"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/comments?post=449"
+    }
+   ],
+   "wp:attached-to": [
+    {
+     "embeddable": true,
+     "post_type": "wp_template",
+     "id": 437,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/templates/437"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 448,
+  "date": "2024-09-09T16:41:53",
+  "date_gmt": "2024-09-09T16:41:53",
+  "guid": {
+   "rendered": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-5.jpeg"
+  },
+  "modified": "2024-09-09T16:41:53",
+  "modified_gmt": "2024-09-09T16:41:53",
+  "slug": "images-5",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://anglocolombiano.com/?attachment_id=448",
+  "title": {
+   "rendered": "images (5)"
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+   "_themeisle_gutenberg_block_has_review": false
+  },
+  "class_list": [
+   "post-448",
+   "attachment",
+   "type-attachment",
+   "status-inherit",
+   "hentry"
+  ],
+  "description": {
+   "rendered": "<p class=\"attachment\"><a href='https://anglocolombiano.com/wp-content/uploads/2024/09/images-5.jpeg'><img decoding=\"async\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/images-5-300x164.jpeg\" data-srcset=\"https://anglocolombiano.com/wp-content/uploads/2024/09/images-5-300x164.jpeg 300w, https://anglocolombiano.com/wp-content/uploads/2024/09/images-5.jpeg 303w\" width=\"300\" height=\"164\" class=\"attachment-medium size-medium lazyload\" alt=\"\" sizes=\"(max-width: 300px) 100vw, 300px\"><noscript><img decoding=\"async\" width=\"300\" height=\"164\" src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/images-5-300x164.jpeg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://anglocolombiano.com/wp-content/uploads/2024/09/images-5-300x164.jpeg 300w, https://anglocolombiano.com/wp-content/uploads/2024/09/images-5.jpeg 303w\" sizes=\"(max-width: 300px) 100vw, 300px\"></noscript></a></p>\n"
+  },
+  "caption": {
+   "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+   "width": 303,
+   "height": 166,
+   "file": "2024/09/images-5.jpeg",
+   "filesize": 10717,
+   "sizes": {
+    "education-zone-recent-post": {
+     "file": "images-5-70x70.jpeg",
+     "width": 70,
+     "height": 70,
+     "filesize": 2473,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-5-70x70.jpeg"
+    },
+    "education-zone-search-result": {
+     "file": "images-5-246x166.jpeg",
+     "width": 246,
+     "height": 166,
+     "filesize": 12618,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-5-246x166.jpeg"
+    },
+    "education-zone-featured-course": {
+     "file": "images-5-276x166.jpeg",
+     "width": 276,
+     "height": 166,
+     "filesize": 14089,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-5-276x166.jpeg"
+    },
+    "education-zone-testimonial": {
+     "file": "images-5-125x125.jpeg",
+     "width": 125,
+     "height": 125,
+     "filesize": 5230,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-5-125x125.jpeg"
+    },
+    "thumbnail": {
+     "file": "images-5-150x150.jpeg",
+     "width": 150,
+     "height": 150,
+     "filesize": 6723,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-5-150x150.jpeg"
+    },
+    "medium": {
+     "file": "images-5-300x164.jpeg",
+     "width": 300,
+     "height": 164,
+     "filesize": 13564,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-5-300x164.jpeg"
+    },
+    "full": {
+     "file": "images-5.jpeg",
+     "width": 303,
+     "height": 166,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-5.jpeg"
+    }
+   },
+   "image_meta": {
+    "aperture": "0",
+    "credit": "",
+    "camera": "",
+    "caption": "",
+    "created_timestamp": "0",
+    "copyright": "",
+    "focal_length": "0",
+    "iso": "0",
+    "shutter_speed": "0",
+    "title": "",
+    "orientation": "0",
+    "keywords": []
+   }
+  },
+  "post": 437,
+  "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-5.jpeg",
+  "filename": "images-5.jpeg",
+  "filesize": 10717,
+  "_links": {
+   "self": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media/448",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/types/attachment"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/comments?post=448"
+    }
+   ],
+   "wp:attached-to": [
+    {
+     "embeddable": true,
+     "post_type": "wp_template",
+     "id": 437,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/templates/437"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 447,
+  "date": "2024-09-09T16:41:41",
+  "date_gmt": "2024-09-09T16:41:41",
+  "guid": {
+   "rendered": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-3.jpeg"
+  },
+  "modified": "2024-09-09T16:41:41",
+  "modified_gmt": "2024-09-09T16:41:41",
+  "slug": "images-3",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://anglocolombiano.com/?attachment_id=447",
+  "title": {
+   "rendered": "images (3)"
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+   "_themeisle_gutenberg_block_has_review": false
+  },
+  "class_list": [
+   "post-447",
+   "attachment",
+   "type-attachment",
+   "status-inherit",
+   "hentry"
+  ],
+  "description": {
+   "rendered": "<p class=\"attachment\"><a href='https://anglocolombiano.com/wp-content/uploads/2024/09/images-3.jpeg'><img decoding=\"async\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/images-3.jpeg\" data-srcset=\"https://anglocolombiano.com/wp-content/uploads/2024/09/images-3.jpeg 225w, https://anglocolombiano.com/wp-content/uploads/2024/09/images-3-70x70.jpeg 70w, https://anglocolombiano.com/wp-content/uploads/2024/09/images-3-125x125.jpeg 125w, https://anglocolombiano.com/wp-content/uploads/2024/09/images-3-150x150.jpeg 150w\" width=\"225\" height=\"225\" class=\"attachment-medium size-medium lazyload\" alt=\"\" sizes=\"(max-width: 225px) 100vw, 225px\"><noscript><img decoding=\"async\" width=\"225\" height=\"225\" src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/images-3.jpeg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://anglocolombiano.com/wp-content/uploads/2024/09/images-3.jpeg 225w, https://anglocolombiano.com/wp-content/uploads/2024/09/images-3-70x70.jpeg 70w, https://anglocolombiano.com/wp-content/uploads/2024/09/images-3-125x125.jpeg 125w, https://anglocolombiano.com/wp-content/uploads/2024/09/images-3-150x150.jpeg 150w\" sizes=\"(max-width: 225px) 100vw, 225px\"></noscript></a></p>\n"
+  },
+  "caption": {
+   "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+   "width": 225,
+   "height": 225,
+   "file": "2024/09/images-3.jpeg",
+   "filesize": 8831,
+   "sizes": {
+    "education-zone-recent-post": {
+     "file": "images-3-70x70.jpeg",
+     "width": 70,
+     "height": 70,
+     "filesize": 2694,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-3-70x70.jpeg"
+    },
+    "education-zone-testimonial": {
+     "file": "images-3-125x125.jpeg",
+     "width": 125,
+     "height": 125,
+     "filesize": 5491,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-3-125x125.jpeg"
+    },
+    "thumbnail": {
+     "file": "images-3-150x150.jpeg",
+     "width": 150,
+     "height": 150,
+     "filesize": 7050,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-3-150x150.jpeg"
+    },
+    "full": {
+     "file": "images-3.jpeg",
+     "width": 225,
+     "height": 225,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-3.jpeg"
+    }
+   },
+   "image_meta": {
+    "aperture": "0",
+    "credit": "",
+    "camera": "",
+    "caption": "",
+    "created_timestamp": "0",
+    "copyright": "",
+    "focal_length": "0",
+    "iso": "0",
+    "shutter_speed": "0",
+    "title": "",
+    "orientation": "0",
+    "keywords": []
+   }
+  },
+  "post": 437,
+  "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-3.jpeg",
+  "filename": "images-3.jpeg",
+  "filesize": 8831,
+  "_links": {
+   "self": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media/447",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/types/attachment"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/comments?post=447"
+    }
+   ],
+   "wp:attached-to": [
+    {
+     "embeddable": true,
+     "post_type": "wp_template",
+     "id": 437,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/templates/437"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 446,
+  "date": "2024-09-09T16:36:44",
+  "date_gmt": "2024-09-09T16:36:44",
+  "guid": {
+   "rendered": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-2-1.jpeg"
+  },
+  "modified": "2024-09-09T16:36:44",
+  "modified_gmt": "2024-09-09T16:36:44",
+  "slug": "images-2-2",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://anglocolombiano.com/images-2-2/",
+  "title": {
+   "rendered": "images (2)"
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+   "_themeisle_gutenberg_block_has_review": false
+  },
+  "class_list": [
+   "post-446",
+   "attachment",
+   "type-attachment",
+   "status-inherit",
+   "hentry"
+  ],
+  "description": {
+   "rendered": "<p class=\"attachment\"><a href='https://anglocolombiano.com/wp-content/uploads/2024/09/images-2-1.jpeg'><img decoding=\"async\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/images-2-1.jpeg\" data-srcset=\"https://anglocolombiano.com/wp-content/uploads/2024/09/images-2-1.jpeg 225w, https://anglocolombiano.com/wp-content/uploads/2024/09/images-2-1-70x70.jpeg 70w, https://anglocolombiano.com/wp-content/uploads/2024/09/images-2-1-125x125.jpeg 125w, https://anglocolombiano.com/wp-content/uploads/2024/09/images-2-1-150x150.jpeg 150w\" width=\"225\" height=\"224\" class=\"attachment-medium size-medium lazyload\" alt=\"\" sizes=\"(max-width: 225px) 100vw, 225px\"><noscript><img decoding=\"async\" width=\"225\" height=\"224\" src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/images-2-1.jpeg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://anglocolombiano.com/wp-content/uploads/2024/09/images-2-1.jpeg 225w, https://anglocolombiano.com/wp-content/uploads/2024/09/images-2-1-70x70.jpeg 70w, https://anglocolombiano.com/wp-content/uploads/2024/09/images-2-1-125x125.jpeg 125w, https://anglocolombiano.com/wp-content/uploads/2024/09/images-2-1-150x150.jpeg 150w\" sizes=\"(max-width: 225px) 100vw, 225px\"></noscript></a></p>\n"
+  },
+  "caption": {
+   "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+   "width": 225,
+   "height": 224,
+   "file": "2024/09/images-2-1.jpeg",
+   "filesize": 11159,
+   "sizes": {
+    "education-zone-recent-post": {
+     "file": "images-2-1-70x70.jpeg",
+     "width": 70,
+     "height": 70,
+     "filesize": 2917,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-2-1-70x70.jpeg"
+    },
+    "education-zone-testimonial": {
+     "file": "images-2-1-125x125.jpeg",
+     "width": 125,
+     "height": 125,
+     "filesize": 6316,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-2-1-125x125.jpeg"
+    },
+    "thumbnail": {
+     "file": "images-2-1-150x150.jpeg",
+     "width": 150,
+     "height": 150,
+     "filesize": 8311,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-2-1-150x150.jpeg"
+    },
+    "full": {
+     "file": "images-2-1.jpeg",
+     "width": 225,
+     "height": 224,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-2-1.jpeg"
+    }
+   },
+   "image_meta": {
+    "aperture": "0",
+    "credit": "",
+    "camera": "",
+    "caption": "",
+    "created_timestamp": "0",
+    "copyright": "",
+    "focal_length": "0",
+    "iso": "0",
+    "shutter_speed": "0",
+    "title": "",
+    "orientation": "0",
+    "keywords": []
+   }
+  },
+  "post": null,
+  "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-2-1.jpeg",
+  "filename": "images-2-1.jpeg",
+  "filesize": 11159,
+  "_links": {
+   "self": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media/446",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/types/attachment"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/comments?post=446"
+    }
+   ]
+  }
+ },
+ {
+  "id": 445,
+  "date": "2024-09-09T16:33:18",
+  "date_gmt": "2024-09-09T16:33:18",
+  "guid": {
+   "rendered": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-1-1.jpeg"
+  },
+  "modified": "2024-09-09T16:33:18",
+  "modified_gmt": "2024-09-09T16:33:18",
+  "slug": "images-1-2",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://anglocolombiano.com/?attachment_id=445",
+  "title": {
+   "rendered": "images (1)"
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+   "_themeisle_gutenberg_block_has_review": false
+  },
+  "class_list": [
+   "post-445",
+   "attachment",
+   "type-attachment",
+   "status-inherit",
+   "hentry"
+  ],
+  "description": {
+   "rendered": "<p class=\"attachment\"><a href='https://anglocolombiano.com/wp-content/uploads/2024/09/images-1-1.jpeg'><img decoding=\"async\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/images-1-1.jpeg\" width=\"227\" height=\"222\" class=\"attachment-medium size-medium lazyload\" alt=\"\"><noscript><img decoding=\"async\" width=\"227\" height=\"222\" src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/images-1-1.jpeg\" class=\"attachment-medium size-medium\" alt=\"\"></noscript></a></p>\n"
+  },
+  "caption": {
+   "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+   "width": 227,
+   "height": 222,
+   "file": "2024/09/images-1-1.jpeg",
+   "filesize": 11732,
+   "sizes": {
+    "education-zone-recent-post": {
+     "file": "images-1-1-70x70.jpeg",
+     "width": 70,
+     "height": 70,
+     "filesize": 2333,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-1-1-70x70.jpeg"
+    },
+    "education-zone-testimonial": {
+     "file": "images-1-1-125x125.jpeg",
+     "width": 125,
+     "height": 125,
+     "filesize": 4881,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-1-1-125x125.jpeg"
+    },
+    "thumbnail": {
+     "file": "images-1-1-150x150.jpeg",
+     "width": 150,
+     "height": 150,
+     "filesize": 6342,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-1-1-150x150.jpeg"
+    },
+    "full": {
+     "file": "images-1-1.jpeg",
+     "width": 227,
+     "height": 222,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-1-1.jpeg"
+    }
+   },
+   "image_meta": {
+    "aperture": "0",
+    "credit": "",
+    "camera": "",
+    "caption": "",
+    "created_timestamp": "0",
+    "copyright": "",
+    "focal_length": "0",
+    "iso": "0",
+    "shutter_speed": "0",
+    "title": "",
+    "orientation": "0",
+    "keywords": []
+   }
+  },
+  "post": 437,
+  "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-1-1.jpeg",
+  "filename": "images-1-1.jpeg",
+  "filesize": 11732,
+  "_links": {
+   "self": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media/445",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/types/attachment"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/comments?post=445"
+    }
+   ],
+   "wp:attached-to": [
+    {
+     "embeddable": true,
+     "post_type": "wp_template",
+     "id": 437,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/templates/437"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 444,
+  "date": "2024-09-09T16:31:05",
+  "date_gmt": "2024-09-09T16:31:05",
+  "guid": {
+   "rendered": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-2.jpeg"
+  },
+  "modified": "2024-09-09T16:31:05",
+  "modified_gmt": "2024-09-09T16:31:05",
+  "slug": "images-2",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://anglocolombiano.com/?attachment_id=444",
+  "title": {
+   "rendered": "images"
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+   "_themeisle_gutenberg_block_has_review": false
+  },
+  "class_list": [
+   "post-444",
+   "attachment",
+   "type-attachment",
+   "status-inherit",
+   "hentry"
+  ],
+  "description": {
+   "rendered": "<p class=\"attachment\"><a href='https://anglocolombiano.com/wp-content/uploads/2024/09/images-2.jpeg'><img decoding=\"async\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/images-2.jpeg\" width=\"300\" height=\"168\" class=\"attachment-medium size-medium lazyload\" alt=\"\"><noscript><img decoding=\"async\" width=\"300\" height=\"168\" src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/images-2.jpeg\" class=\"attachment-medium size-medium\" alt=\"\"></noscript></a></p>\n"
+  },
+  "caption": {
+   "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+   "width": 300,
+   "height": 168,
+   "file": "2024/09/images-2.jpeg",
+   "filesize": 11913,
+   "sizes": {
+    "education-zone-recent-post": {
+     "file": "images-2-70x70.jpeg",
+     "width": 70,
+     "height": 70,
+     "filesize": 2816,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-2-70x70.jpeg"
+    },
+    "education-zone-search-result": {
+     "file": "images-2-246x168.jpeg",
+     "width": 246,
+     "height": 168,
+     "filesize": 14887,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-2-246x168.jpeg"
+    },
+    "education-zone-featured-course": {
+     "file": "images-2-276x168.jpeg",
+     "width": 276,
+     "height": 168,
+     "filesize": 16889,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-2-276x168.jpeg"
+    },
+    "education-zone-testimonial": {
+     "file": "images-2-125x125.jpeg",
+     "width": 125,
+     "height": 125,
+     "filesize": 6199,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-2-125x125.jpeg"
+    },
+    "thumbnail": {
+     "file": "images-2-150x150.jpeg",
+     "width": 150,
+     "height": 150,
+     "filesize": 8001,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-2-150x150.jpeg"
+    },
+    "full": {
+     "file": "images-2.jpeg",
+     "width": 300,
+     "height": 168,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-2.jpeg"
+    }
+   },
+   "image_meta": {
+    "aperture": "0",
+    "credit": "",
+    "camera": "",
+    "caption": "",
+    "created_timestamp": "0",
+    "copyright": "",
+    "focal_length": "0",
+    "iso": "0",
+    "shutter_speed": "0",
+    "title": "",
+    "orientation": "0",
+    "keywords": []
+   }
+  },
+  "post": 437,
+  "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-2.jpeg",
+  "filename": "images-2.jpeg",
+  "filesize": 11913,
+  "_links": {
+   "self": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media/444",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/types/attachment"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/comments?post=444"
+    }
+   ],
+   "wp:attached-to": [
+    {
+     "embeddable": true,
+     "post_type": "wp_template",
+     "id": 437,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/templates/437"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 429,
+  "date": "2024-09-09T16:15:30",
+  "date_gmt": "2024-09-09T16:15:30",
+  "guid": {
+   "rendered": "https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727-1.png"
+  },
+  "modified": "2024-09-09T16:15:30",
+  "modified_gmt": "2024-09-09T16:15:30",
+  "slug": "cropped-cropped-captura-de-pantalla-2024-04-04-024727-1-png",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://anglocolombiano.com/home/captura-de-pantalla-2024-04-04-024727/cropped-captura-de-pantalla-2024-04-04-024727-png/cropped-cropped-captura-de-pantalla-2024-04-04-024727-1-png/",
+  "title": {
+   "rendered": "cropped-cropped-Captura-de-pantalla-2024-04-04-024727-1.png"
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+   "_themeisle_gutenberg_block_has_review": false
+  },
+  "class_list": [
+   "post-429",
+   "attachment",
+   "type-attachment",
+   "status-inherit",
+   "hentry"
+  ],
+  "description": {
+   "rendered": "<p class=\"attachment\"><a href='https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727-1.png'><img decoding=\"async\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727-1.png\" data-srcset=\"https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727-1.png 240w, https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727-1-150x150.png 150w\" width=\"240\" height=\"240\" class=\"attachment-medium size-medium lazyload\" alt=\"\" sizes=\"(max-width: 240px) 100vw, 240px\"><noscript><img decoding=\"async\" width=\"240\" height=\"240\" src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727-1.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727-1.png 240w, https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727-1-150x150.png 150w\" sizes=\"(max-width: 240px) 100vw, 240px\"></noscript></a></p>\n<p>https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-Captura-de-pantalla-2024-04-04-024727.png</p>\n"
+  },
+  "caption": {
+   "rendered": "<p>https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-Captura-de-pantalla-2024-04-04-024727.png</p>\n"
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/png",
+  "media_details": {
+   "width": 240,
+   "height": 240,
+   "file": "2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727-1.png",
+   "filesize": 98324,
+   "sizes": {
+    "thumbnail": {
+     "file": "cropped-cropped-Captura-de-pantalla-2024-04-04-024727-1-150x150.png",
+     "width": 150,
+     "height": 150,
+     "filesize": 43148,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727-1-150x150.png"
+    },
+    "full": {
+     "file": "cropped-cropped-Captura-de-pantalla-2024-04-04-024727-1.png",
+     "width": 240,
+     "height": 240,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727-1.png"
+    }
+   },
+   "image_meta": {
+    "aperture": "0",
+    "credit": "",
+    "camera": "",
+    "caption": "",
+    "created_timestamp": "0",
+    "copyright": "",
+    "focal_length": "0",
+    "iso": "0",
+    "shutter_speed": "0",
+    "title": "",
+    "orientation": "0",
+    "keywords": []
+   }
+  },
+  "post": 404,
+  "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727-1.png",
+  "filename": "cropped-cropped-Captura-de-pantalla-2024-04-04-024727-1.png",
+  "filesize": 98324,
+  "_links": {
+   "self": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media/429",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/types/attachment"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/comments?post=429"
+    }
+   ],
+   "wp:attached-to": [
+    {
+     "embeddable": true,
+     "post_type": "attachment",
+     "id": 404,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media/404"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 405,
+  "date": "2024-09-09T15:53:05",
+  "date_gmt": "2024-09-09T15:53:05",
+  "guid": {
+   "rendered": "https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727.png"
+  },
+  "modified": "2024-09-09T15:53:05",
+  "modified_gmt": "2024-09-09T15:53:05",
+  "slug": "cropped-cropped-captura-de-pantalla-2024-04-04-024727-png",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://anglocolombiano.com/home/captura-de-pantalla-2024-04-04-024727/cropped-captura-de-pantalla-2024-04-04-024727-png/cropped-cropped-captura-de-pantalla-2024-04-04-024727-png/",
+  "title": {
+   "rendered": "cropped-cropped-Captura-de-pantalla-2024-04-04-024727.png"
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+   "_themeisle_gutenberg_block_has_review": false
+  },
+  "class_list": [
+   "post-405",
+   "attachment",
+   "type-attachment",
+   "status-inherit",
+   "hentry"
+  ],
+  "description": {
+   "rendered": "<p class=\"attachment\"><a href='https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727.png'><img decoding=\"async\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727-300x300.png\" data-srcset=\"https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727-300x300.png 300w, https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727-150x150.png 150w, https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727-270x270.png 270w, https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727-192x192.png 192w, https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727-180x180.png 180w, https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727-32x32.png 32w, https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727.png 512w\" width=\"300\" height=\"300\" class=\"attachment-medium size-medium lazyload\" alt=\"\" sizes=\"(max-width: 300px) 100vw, 300px\"><noscript><img decoding=\"async\" width=\"300\" height=\"300\" src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727-300x300.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727-300x300.png 300w, https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727-150x150.png 150w, https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727-270x270.png 270w, https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727-192x192.png 192w, https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727-180x180.png 180w, https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727-32x32.png 32w, https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727.png 512w\" sizes=\"(max-width: 300px) 100vw, 300px\"></noscript></a></p>\n<p>https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-Captura-de-pantalla-2024-04-04-024727.png</p>\n"
+  },
+  "caption": {
+   "rendered": "<p>https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-Captura-de-pantalla-2024-04-04-024727.png</p>\n"
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/png",
+  "media_details": {
+   "width": 512,
+   "height": 512,
+   "file": "2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727.png",
+   "filesize": 219070,
+   "sizes": {
+    "medium": {
+     "file": "cropped-cropped-Captura-de-pantalla-2024-04-04-024727-300x300.png",
+     "width": 300,
+     "height": 300,
+     "filesize": 138588,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727-300x300.png"
+    },
+    "thumbnail": {
+     "file": "cropped-cropped-Captura-de-pantalla-2024-04-04-024727-150x150.png",
+     "width": 150,
+     "height": 150,
+     "filesize": 43903,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727-150x150.png"
+    },
+    "site_icon-270": {
+     "file": "cropped-cropped-Captura-de-pantalla-2024-04-04-024727-270x270.png",
+     "width": 270,
+     "height": 270,
+     "filesize": 117980,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727-270x270.png"
+    },
+    "site_icon-192": {
+     "file": "cropped-cropped-Captura-de-pantalla-2024-04-04-024727-192x192.png",
+     "width": 192,
+     "height": 192,
+     "filesize": 67620,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727-192x192.png"
+    },
+    "site_icon-180": {
+     "file": "cropped-cropped-Captura-de-pantalla-2024-04-04-024727-180x180.png",
+     "width": 180,
+     "height": 180,
+     "filesize": 60143,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727-180x180.png"
+    },
+    "site_icon-32": {
+     "file": "cropped-cropped-Captura-de-pantalla-2024-04-04-024727-32x32.png",
+     "width": 32,
+     "height": 32,
+     "filesize": 2696,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727-32x32.png"
+    },
+    "full": {
+     "file": "cropped-cropped-Captura-de-pantalla-2024-04-04-024727.png",
+     "width": 512,
+     "height": 512,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727.png"
+    }
+   },
+   "image_meta": {
+    "aperture": "0",
+    "credit": "",
+    "camera": "",
+    "caption": "",
+    "created_timestamp": "0",
+    "copyright": "",
+    "focal_length": "0",
+    "iso": "0",
+    "shutter_speed": "0",
+    "title": "",
+    "orientation": "0",
+    "keywords": []
+   }
+  },
+  "post": 404,
+  "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-cropped-Captura-de-pantalla-2024-04-04-024727.png",
+  "filename": "cropped-cropped-Captura-de-pantalla-2024-04-04-024727.png",
+  "filesize": 219070,
+  "_links": {
+   "self": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media/405",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/types/attachment"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/comments?post=405"
+    }
+   ],
+   "wp:attached-to": [
+    {
+     "embeddable": true,
+     "post_type": "attachment",
+     "id": 404,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media/404"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 404,
+  "date": "2024-09-09T15:52:51",
+  "date_gmt": "2024-09-09T15:52:51",
+  "guid": {
+   "rendered": "https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-Captura-de-pantalla-2024-04-04-024727.png"
+  },
+  "modified": "2024-09-09T15:52:51",
+  "modified_gmt": "2024-09-09T15:52:51",
+  "slug": "cropped-captura-de-pantalla-2024-04-04-024727-png",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://anglocolombiano.com/home/captura-de-pantalla-2024-04-04-024727/cropped-captura-de-pantalla-2024-04-04-024727-png/",
+  "title": {
+   "rendered": "cropped-Captura-de-pantalla-2024-04-04-024727.png"
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+   "_themeisle_gutenberg_block_has_review": false
+  },
+  "class_list": [
+   "post-404",
+   "attachment",
+   "type-attachment",
+   "status-inherit",
+   "hentry"
+  ],
+  "description": {
+   "rendered": "<p class=\"attachment\"><a href='https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-Captura-de-pantalla-2024-04-04-024727.png'><img decoding=\"async\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-Captura-de-pantalla-2024-04-04-024727.png\" data-srcset=\"https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-Captura-de-pantalla-2024-04-04-024727.png 200w, https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-Captura-de-pantalla-2024-04-04-024727-150x150.png 150w\" width=\"200\" height=\"198\" class=\"attachment-medium size-medium lazyload\" alt=\"\" sizes=\"(max-width: 200px) 100vw, 200px\"><noscript><img decoding=\"async\" width=\"200\" height=\"198\" src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-Captura-de-pantalla-2024-04-04-024727.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-Captura-de-pantalla-2024-04-04-024727.png 200w, https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-Captura-de-pantalla-2024-04-04-024727-150x150.png 150w\" sizes=\"(max-width: 200px) 100vw, 200px\"></noscript></a></p>\n<p>https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-Captura-de-pantalla-2024-04-04-024727.png</p>\n"
+  },
+  "caption": {
+   "rendered": "<p>https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-Captura-de-pantalla-2024-04-04-024727.png</p>\n"
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/png",
+  "media_details": {
+   "width": 200,
+   "height": 198,
+   "file": "2024/09/cropped-Captura-de-pantalla-2024-04-04-024727.png",
+   "filesize": 75943,
+   "sizes": {
+    "thumbnail": {
+     "file": "cropped-Captura-de-pantalla-2024-04-04-024727-150x150.png",
+     "width": 150,
+     "height": 150,
+     "filesize": 44183,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-Captura-de-pantalla-2024-04-04-024727-150x150.png"
+    },
+    "full": {
+     "file": "cropped-Captura-de-pantalla-2024-04-04-024727.png",
+     "width": 200,
+     "height": 198,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-Captura-de-pantalla-2024-04-04-024727.png"
+    }
+   },
+   "image_meta": {
+    "aperture": "0",
+    "credit": "",
+    "camera": "",
+    "caption": "",
+    "created_timestamp": "0",
+    "copyright": "",
+    "focal_length": "0",
+    "iso": "0",
+    "shutter_speed": "0",
+    "title": "",
+    "orientation": "0",
+    "keywords": []
+   }
+  },
+  "post": 385,
+  "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/cropped-Captura-de-pantalla-2024-04-04-024727.png",
+  "filename": "cropped-Captura-de-pantalla-2024-04-04-024727.png",
+  "filesize": 75943,
+  "_links": {
+   "self": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media/404",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/types/attachment"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/comments?post=404"
+    }
+   ],
+   "wp:attached-to": [
+    {
+     "embeddable": true,
+     "post_type": "attachment",
+     "id": 385,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media/385"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 391,
+  "date": "2024-09-08T03:18:00",
+  "date_gmt": "2024-09-08T03:18:00",
+  "guid": {
+   "rendered": "https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1.jpg"
+  },
+  "modified": "2024-09-08T03:18:00",
+  "modified_gmt": "2024-09-08T03:18:00",
+  "slug": "311133435_556089029857794_12075082162223296_n-2",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://anglocolombiano.com/home/311133435_556089029857794_12075082162223296_n-2/",
+  "title": {
+   "rendered": "311133435_556089029857794_12075082162223296_n"
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+   "_themeisle_gutenberg_block_has_review": false
+  },
+  "class_list": [
+   "post-391",
+   "attachment",
+   "type-attachment",
+   "status-inherit",
+   "hentry"
+  ],
+  "description": {
+   "rendered": "<p class=\"attachment\"><a href='https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1.jpg'><img decoding=\"async\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1-300x169.jpg\" data-srcset=\"https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1-300x169.jpg 300w, https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1-848x480.jpg 848w, https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1-768x432.jpg 768w, https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1-1024x577.jpg 1024w, https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1-1536x865.jpg 1536w, https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1.jpg 2048w\" width=\"300\" height=\"169\" class=\"attachment-medium size-medium lazyload\" alt=\"\" sizes=\"(max-width: 300px) 100vw, 300px\"><noscript><img decoding=\"async\" width=\"300\" height=\"169\" src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1-300x169.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1-300x169.jpg 300w, https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1-848x480.jpg 848w, https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1-768x432.jpg 768w, https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1-1024x577.jpg 1024w, https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1-1536x865.jpg 1536w, https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1.jpg 2048w\" sizes=\"(max-width: 300px) 100vw, 300px\"></noscript></a></p>\n"
+  },
+  "caption": {
+   "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+   "width": 2048,
+   "height": 1153,
+   "file": "2024/09/311133435_556089029857794_12075082162223296_n-1.jpg",
+   "filesize": 374063,
+   "sizes": {
+    "education-zone-banner": {
+     "file": "311133435_556089029857794_12075082162223296_n-1-1920x692.jpg",
+     "width": 1920,
+     "height": 692,
+     "filesize": 253302,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1-1920x692.jpg"
+    },
+    "education-zone-image-full": {
+     "file": "311133435_556089029857794_12075082162223296_n-1-1140x458.jpg",
+     "width": 1140,
+     "height": 458,
+     "filesize": 120962,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1-1140x458.jpg"
+    },
+    "education-zone-image": {
+     "file": "311133435_556089029857794_12075082162223296_n-1-750x458.jpg",
+     "width": 750,
+     "height": 458,
+     "filesize": 78378,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1-750x458.jpg"
+    },
+    "education-zone-recent-post": {
+     "file": "311133435_556089029857794_12075082162223296_n-1-70x70.jpg",
+     "width": 70,
+     "height": 70,
+     "filesize": 2451,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1-70x70.jpg"
+    },
+    "education-zone-search-result": {
+     "file": "311133435_556089029857794_12075082162223296_n-1-246x246.jpg",
+     "width": 246,
+     "height": 246,
+     "filesize": 16260,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1-246x246.jpg"
+    },
+    "education-zone-featured-course": {
+     "file": "311133435_556089029857794_12075082162223296_n-1-276x276.jpg",
+     "width": 276,
+     "height": 276,
+     "filesize": 19950,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1-276x276.jpg"
+    },
+    "education-zone-testimonial": {
+     "file": "311133435_556089029857794_12075082162223296_n-1-125x125.jpg",
+     "width": 125,
+     "height": 125,
+     "filesize": 5486,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1-125x125.jpg"
+    },
+    "education-zone-blog-full": {
+     "file": "311133435_556089029857794_12075082162223296_n-1-848x480.jpg",
+     "width": 848,
+     "height": 480,
+     "filesize": 90502,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1-848x480.jpg"
+    },
+    "thumbnail": {
+     "file": "311133435_556089029857794_12075082162223296_n-1-150x150.jpg",
+     "width": 150,
+     "height": 150,
+     "filesize": 7303,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1-150x150.jpg"
+    },
+    "medium": {
+     "file": "311133435_556089029857794_12075082162223296_n-1-300x169.jpg",
+     "width": 300,
+     "height": 169,
+     "filesize": 14615,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1-300x169.jpg"
+    },
+    "medium_large": {
+     "file": "311133435_556089029857794_12075082162223296_n-1-768x432.jpg",
+     "width": 768,
+     "height": 432,
+     "filesize": 75452,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1-768x432.jpg"
+    },
+    "large": {
+     "file": "311133435_556089029857794_12075082162223296_n-1-1024x577.jpg",
+     "width": 1024,
+     "height": 577,
+     "filesize": 130885,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1-1024x577.jpg"
+    },
+    "1536x1536": {
+     "file": "311133435_556089029857794_12075082162223296_n-1-1536x865.jpg",
+     "width": 1536,
+     "height": 865,
+     "filesize": 257691,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1-1536x865.jpg"
+    },
+    "neve-blog": {
+     "file": "311133435_556089029857794_12075082162223296_n-1-930x620.jpg",
+     "width": 930,
+     "height": 620,
+     "filesize": 123533,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1-930x620.jpg"
+    },
+    "full": {
+     "file": "311133435_556089029857794_12075082162223296_n-1.jpg",
+     "width": 2048,
+     "height": 1153,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1.jpg"
+    }
+   },
+   "image_meta": {
+    "aperture": "0",
+    "credit": "",
+    "camera": "",
+    "caption": "",
+    "created_timestamp": "0",
+    "copyright": "",
+    "focal_length": "0",
+    "iso": "0",
+    "shutter_speed": "0",
+    "title": "",
+    "orientation": "0",
+    "keywords": []
+   }
+  },
+  "post": 271,
+  "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1.jpg",
+  "filename": "311133435_556089029857794_12075082162223296_n-1.jpg",
+  "filesize": 374063,
+  "_links": {
+   "self": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media/391",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/types/attachment"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/comments?post=391"
+    }
+   ],
+   "wp:attached-to": [
+    {
+     "embeddable": true,
+     "post_type": "page",
+     "id": 271,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/pages/271"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 389,
+  "date": "2024-09-08T03:17:14",
+  "date_gmt": "2024-09-08T03:17:14",
+  "guid": {
+   "rendered": "https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n.jpg"
+  },
+  "modified": "2024-09-08T03:17:14",
+  "modified_gmt": "2024-09-08T03:17:14",
+  "slug": "311133435_556089029857794_12075082162223296_n",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://anglocolombiano.com/home/311133435_556089029857794_12075082162223296_n/",
+  "title": {
+   "rendered": "311133435_556089029857794_12075082162223296_n"
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+   "_themeisle_gutenberg_block_has_review": false
+  },
+  "class_list": [
+   "post-389",
+   "attachment",
+   "type-attachment",
+   "status-inherit",
+   "hentry"
+  ],
+  "description": {
+   "rendered": "<p class=\"attachment\"><a href='https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n.jpg'><img decoding=\"async\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-300x169.jpg\" data-srcset=\"https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-300x169.jpg 300w, https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-848x480.jpg 848w, https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-768x432.jpg 768w, https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1024x577.jpg 1024w, https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1536x865.jpg 1536w, https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n.jpg 2048w\" width=\"300\" height=\"169\" class=\"attachment-medium size-medium lazyload\" alt=\"\" sizes=\"(max-width: 300px) 100vw, 300px\"><noscript><img decoding=\"async\" width=\"300\" height=\"169\" src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-300x169.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-300x169.jpg 300w, https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-848x480.jpg 848w, https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-768x432.jpg 768w, https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1024x577.jpg 1024w, https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1536x865.jpg 1536w, https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n.jpg 2048w\" sizes=\"(max-width: 300px) 100vw, 300px\"></noscript></a></p>\n"
+  },
+  "caption": {
+   "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+   "width": 2048,
+   "height": 1153,
+   "file": "2024/09/311133435_556089029857794_12075082162223296_n.jpg",
+   "filesize": 374063,
+   "sizes": {
+    "education-zone-banner": {
+     "file": "311133435_556089029857794_12075082162223296_n-1920x692.jpg",
+     "width": 1920,
+     "height": 692,
+     "filesize": 253302,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1920x692.jpg"
+    },
+    "education-zone-image-full": {
+     "file": "311133435_556089029857794_12075082162223296_n-1140x458.jpg",
+     "width": 1140,
+     "height": 458,
+     "filesize": 120962,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1140x458.jpg"
+    },
+    "education-zone-image": {
+     "file": "311133435_556089029857794_12075082162223296_n-750x458.jpg",
+     "width": 750,
+     "height": 458,
+     "filesize": 78378,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-750x458.jpg"
+    },
+    "education-zone-recent-post": {
+     "file": "311133435_556089029857794_12075082162223296_n-70x70.jpg",
+     "width": 70,
+     "height": 70,
+     "filesize": 2451,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-70x70.jpg"
+    },
+    "education-zone-search-result": {
+     "file": "311133435_556089029857794_12075082162223296_n-246x246.jpg",
+     "width": 246,
+     "height": 246,
+     "filesize": 16260,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-246x246.jpg"
+    },
+    "education-zone-featured-course": {
+     "file": "311133435_556089029857794_12075082162223296_n-276x276.jpg",
+     "width": 276,
+     "height": 276,
+     "filesize": 19950,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-276x276.jpg"
+    },
+    "education-zone-testimonial": {
+     "file": "311133435_556089029857794_12075082162223296_n-125x125.jpg",
+     "width": 125,
+     "height": 125,
+     "filesize": 5486,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-125x125.jpg"
+    },
+    "education-zone-blog-full": {
+     "file": "311133435_556089029857794_12075082162223296_n-848x480.jpg",
+     "width": 848,
+     "height": 480,
+     "filesize": 90502,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-848x480.jpg"
+    },
+    "thumbnail": {
+     "file": "311133435_556089029857794_12075082162223296_n-150x150.jpg",
+     "width": 150,
+     "height": 150,
+     "filesize": 7303,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-150x150.jpg"
+    },
+    "medium": {
+     "file": "311133435_556089029857794_12075082162223296_n-300x169.jpg",
+     "width": 300,
+     "height": 169,
+     "filesize": 14615,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-300x169.jpg"
+    },
+    "medium_large": {
+     "file": "311133435_556089029857794_12075082162223296_n-768x432.jpg",
+     "width": 768,
+     "height": 432,
+     "filesize": 75452,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-768x432.jpg"
+    },
+    "large": {
+     "file": "311133435_556089029857794_12075082162223296_n-1024x577.jpg",
+     "width": 1024,
+     "height": 577,
+     "filesize": 130885,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1024x577.jpg"
+    },
+    "1536x1536": {
+     "file": "311133435_556089029857794_12075082162223296_n-1536x865.jpg",
+     "width": 1536,
+     "height": 865,
+     "filesize": 257691,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-1536x865.jpg"
+    },
+    "neve-blog": {
+     "file": "311133435_556089029857794_12075082162223296_n-930x620.jpg",
+     "width": 930,
+     "height": 620,
+     "filesize": 123533,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n-930x620.jpg"
+    },
+    "full": {
+     "file": "311133435_556089029857794_12075082162223296_n.jpg",
+     "width": 2048,
+     "height": 1153,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n.jpg"
+    }
+   },
+   "image_meta": {
+    "aperture": "0",
+    "credit": "",
+    "camera": "",
+    "caption": "",
+    "created_timestamp": "0",
+    "copyright": "",
+    "focal_length": "0",
+    "iso": "0",
+    "shutter_speed": "0",
+    "title": "",
+    "orientation": "0",
+    "keywords": []
+   }
+  },
+  "post": 271,
+  "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/311133435_556089029857794_12075082162223296_n.jpg",
+  "filename": "311133435_556089029857794_12075082162223296_n.jpg",
+  "filesize": 374063,
+  "_links": {
+   "self": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media/389",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/types/attachment"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/comments?post=389"
+    }
+   ],
+   "wp:attached-to": [
+    {
+     "embeddable": true,
+     "post_type": "page",
+     "id": 271,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/pages/271"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 388,
+  "date": "2024-09-08T03:16:29",
+  "date_gmt": "2024-09-08T03:16:29",
+  "guid": {
+   "rendered": "https://anglocolombiano.com/wp-content/uploads/2024/09/images.jpeg"
+  },
+  "modified": "2024-09-08T03:16:29",
+  "modified_gmt": "2024-09-08T03:16:29",
+  "slug": "images",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://anglocolombiano.com/home/images/",
+  "title": {
+   "rendered": "images"
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+   "_themeisle_gutenberg_block_has_review": false
+  },
+  "class_list": [
+   "post-388",
+   "attachment",
+   "type-attachment",
+   "status-inherit",
+   "hentry"
+  ],
+  "description": {
+   "rendered": "<p class=\"attachment\"><a href='https://anglocolombiano.com/wp-content/uploads/2024/09/images.jpeg'><img decoding=\"async\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/images.jpeg\" width=\"300\" height=\"168\" class=\"attachment-medium size-medium lazyload\" alt=\"\"><noscript><img decoding=\"async\" width=\"300\" height=\"168\" src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/images.jpeg\" class=\"attachment-medium size-medium\" alt=\"\"></noscript></a></p>\n"
+  },
+  "caption": {
+   "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+   "width": 300,
+   "height": 168,
+   "file": "2024/09/images.jpeg",
+   "filesize": 11913,
+   "sizes": {
+    "education-zone-recent-post": {
+     "file": "images-70x70.jpeg",
+     "width": 70,
+     "height": 70,
+     "filesize": 2816,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-70x70.jpeg"
+    },
+    "education-zone-search-result": {
+     "file": "images-246x168.jpeg",
+     "width": 246,
+     "height": 168,
+     "filesize": 14887,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-246x168.jpeg"
+    },
+    "education-zone-featured-course": {
+     "file": "images-276x168.jpeg",
+     "width": 276,
+     "height": 168,
+     "filesize": 16889,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-276x168.jpeg"
+    },
+    "education-zone-testimonial": {
+     "file": "images-125x125.jpeg",
+     "width": 125,
+     "height": 125,
+     "filesize": 6199,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-125x125.jpeg"
+    },
+    "thumbnail": {
+     "file": "images-150x150.jpeg",
+     "width": 150,
+     "height": 150,
+     "filesize": 8001,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-150x150.jpeg"
+    },
+    "full": {
+     "file": "images.jpeg",
+     "width": 300,
+     "height": 168,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images.jpeg"
+    }
+   },
+   "image_meta": {
+    "aperture": "0",
+    "credit": "",
+    "camera": "",
+    "caption": "",
+    "created_timestamp": "0",
+    "copyright": "",
+    "focal_length": "0",
+    "iso": "0",
+    "shutter_speed": "0",
+    "title": "",
+    "orientation": "0",
+    "keywords": []
+   }
+  },
+  "post": 271,
+  "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images.jpeg",
+  "filename": "images.jpeg",
+  "filesize": 11913,
+  "_links": {
+   "self": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media/388",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/types/attachment"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/comments?post=388"
+    }
+   ],
+   "wp:attached-to": [
+    {
+     "embeddable": true,
+     "post_type": "page",
+     "id": 271,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/pages/271"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 387,
+  "date": "2024-09-08T03:16:14",
+  "date_gmt": "2024-09-08T03:16:14",
+  "guid": {
+   "rendered": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-1.jpeg"
+  },
+  "modified": "2024-09-08T03:16:14",
+  "modified_gmt": "2024-09-08T03:16:14",
+  "slug": "images-1",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://anglocolombiano.com/home/images-1/",
+  "title": {
+   "rendered": "images (1)"
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+   "_themeisle_gutenberg_block_has_review": false
+  },
+  "class_list": [
+   "post-387",
+   "attachment",
+   "type-attachment",
+   "status-inherit",
+   "hentry"
+  ],
+  "description": {
+   "rendered": "<p class=\"attachment\"><a href='https://anglocolombiano.com/wp-content/uploads/2024/09/images-1.jpeg'><img decoding=\"async\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/images-1.jpeg\" width=\"227\" height=\"222\" class=\"attachment-medium size-medium lazyload\" alt=\"\"><noscript><img decoding=\"async\" width=\"227\" height=\"222\" src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/images-1.jpeg\" class=\"attachment-medium size-medium\" alt=\"\"></noscript></a></p>\n"
+  },
+  "caption": {
+   "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+   "width": 227,
+   "height": 222,
+   "file": "2024/09/images-1.jpeg",
+   "filesize": 11732,
+   "sizes": {
+    "education-zone-recent-post": {
+     "file": "images-1-70x70.jpeg",
+     "width": 70,
+     "height": 70,
+     "filesize": 2333,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-1-70x70.jpeg"
+    },
+    "education-zone-testimonial": {
+     "file": "images-1-125x125.jpeg",
+     "width": 125,
+     "height": 125,
+     "filesize": 4881,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-1-125x125.jpeg"
+    },
+    "thumbnail": {
+     "file": "images-1-150x150.jpeg",
+     "width": 150,
+     "height": 150,
+     "filesize": 6342,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-1-150x150.jpeg"
+    },
+    "full": {
+     "file": "images-1.jpeg",
+     "width": 227,
+     "height": 222,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-1.jpeg"
+    }
+   },
+   "image_meta": {
+    "aperture": "0",
+    "credit": "",
+    "camera": "",
+    "caption": "",
+    "created_timestamp": "0",
+    "copyright": "",
+    "focal_length": "0",
+    "iso": "0",
+    "shutter_speed": "0",
+    "title": "",
+    "orientation": "0",
+    "keywords": []
+   }
+  },
+  "post": 271,
+  "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/images-1.jpeg",
+  "filename": "images-1.jpeg",
+  "filesize": 11732,
+  "_links": {
+   "self": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media/387",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/types/attachment"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/comments?post=387"
+    }
+   ],
+   "wp:attached-to": [
+    {
+     "embeddable": true,
+     "post_type": "page",
+     "id": 271,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/pages/271"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 386,
+  "date": "2024-09-08T03:13:31",
+  "date_gmt": "2024-09-08T03:13:31",
+  "guid": {
+   "rendered": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-2.jpg"
+  },
+  "modified": "2024-09-08T03:13:31",
+  "modified_gmt": "2024-09-08T03:13:31",
+  "slug": "banner-template-design-with-children-in-the-park-2",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://anglocolombiano.com/home/banner-template-design-with-children-in-the-park-2/",
+  "title": {
+   "rendered": "Banner template design with children in the park"
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+   "_themeisle_gutenberg_block_has_review": false
+  },
+  "class_list": [
+   "post-386",
+   "attachment",
+   "type-attachment",
+   "status-inherit",
+   "hentry"
+  ],
+  "description": {
+   "rendered": "<p class=\"attachment\"><a href='https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-2.jpg'><img decoding=\"async\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-2-300x172.jpg\" data-srcset=\"https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-2-300x172.jpg 300w, https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-2-768x439.jpg 768w, https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-2-1024x586.jpg 1024w, https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-2-1536x878.jpg 1536w, https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-2-2048x1171.jpg 2048w\" width=\"300\" height=\"172\" class=\"attachment-medium size-medium lazyload\" alt=\"\" sizes=\"(max-width: 300px) 100vw, 300px\"><noscript><img decoding=\"async\" width=\"300\" height=\"172\" src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-2-300x172.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-2-300x172.jpg 300w, https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-2-768x439.jpg 768w, https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-2-1024x586.jpg 1024w, https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-2-1536x878.jpg 1536w, https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-2-2048x1171.jpg 2048w\" sizes=\"(max-width: 300px) 100vw, 300px\"></noscript></a></p>\n"
+  },
+  "caption": {
+   "rendered": "<p>Banner template design with children in the park illustration</p>\n"
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+   "width": 2560,
+   "height": 1464,
+   "file": "2024/09/akad-scaled-2.jpg",
+   "filesize": 435623,
+   "sizes": {
+    "education-zone-banner": {
+     "file": "akad-scaled-2-1920x692.jpg",
+     "width": 1920,
+     "height": 692,
+     "filesize": 180870,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-2-1920x692.jpg"
+    },
+    "education-zone-image-full": {
+     "file": "akad-scaled-2-1140x458.jpg",
+     "width": 1140,
+     "height": 458,
+     "filesize": 95088,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-2-1140x458.jpg"
+    },
+    "education-zone-image": {
+     "file": "akad-scaled-2-750x458.jpg",
+     "width": 750,
+     "height": 458,
+     "filesize": 77480,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-2-750x458.jpg"
+    },
+    "education-zone-recent-post": {
+     "file": "akad-scaled-2-70x70.jpg",
+     "width": 70,
+     "height": 70,
+     "filesize": 2883,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-2-70x70.jpg"
+    },
+    "education-zone-search-result": {
+     "file": "akad-scaled-2-246x246.jpg",
+     "width": 246,
+     "height": 246,
+     "filesize": 16903,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-2-246x246.jpg"
+    },
+    "education-zone-featured-course": {
+     "file": "akad-scaled-2-276x276.jpg",
+     "width": 276,
+     "height": 276,
+     "filesize": 19727,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-2-276x276.jpg"
+    },
+    "education-zone-testimonial": {
+     "file": "akad-scaled-2-125x125.jpg",
+     "width": 125,
+     "height": 125,
+     "filesize": 6049,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-2-125x125.jpg"
+    },
+    "education-zone-blog-full": {
+     "file": "akad-scaled-2-848x480.jpg",
+     "width": 848,
+     "height": 480,
+     "filesize": 87312,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-2-848x480.jpg"
+    },
+    "thumbnail": {
+     "file": "akad-scaled-2-150x150.jpg",
+     "width": 150,
+     "height": 150,
+     "filesize": 7939,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-2-150x150.jpg"
+    },
+    "medium": {
+     "file": "akad-scaled-2-300x172.jpg",
+     "width": 300,
+     "height": 172,
+     "filesize": 18413,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-2-300x172.jpg"
+    },
+    "medium_large": {
+     "file": "akad-scaled-2-768x439.jpg",
+     "width": 768,
+     "height": 439,
+     "filesize": 76361,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-2-768x439.jpg"
+    },
+    "large": {
+     "file": "akad-scaled-2-1024x586.jpg",
+     "width": 1024,
+     "height": 586,
+     "filesize": 117537,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-2-1024x586.jpg"
+    },
+    "1536x1536": {
+     "file": "akad-scaled-2-1536x878.jpg",
+     "width": 1536,
+     "height": 878,
+     "filesize": 206274,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-2-1536x878.jpg"
+    },
+    "2048x2048": {
+     "file": "akad-scaled-2-2048x1171.jpg",
+     "width": 2048,
+     "height": 1171,
+     "filesize": 307922,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-2-2048x1171.jpg"
+    },
+    "neve-blog": {
+     "file": "akad-scaled-2-930x620.jpg",
+     "width": 930,
+     "height": 620,
+     "filesize": 107647,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-2-930x620.jpg"
+    },
+    "full": {
+     "file": "akad-scaled-2.jpg",
+     "width": 2560,
+     "height": 1464,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-2.jpg"
+    }
+   },
+   "image_meta": {
+    "aperture": "0",
+    "credit": "",
+    "camera": "",
+    "caption": "Banner template design with children in the park illustration",
+    "created_timestamp": "0",
+    "copyright": "",
+    "focal_length": "0",
+    "iso": "0",
+    "shutter_speed": "0",
+    "title": "Banner template design with children in the park",
+    "orientation": "1",
+    "keywords": [
+     "board",
+     "sign",
+     "isolated",
+     "kids",
+     "children",
+     "frame",
+     "student",
+     "boy",
+     "girl",
+     "tree",
+     "park",
+     "child",
+     "friend",
+     "school",
+     "diversity",
+     "group",
+     "many",
+     "friends",
+     "blank",
+     "scene",
+     "outside",
+     "signage",
+     "border",
+     "pupil",
+     "male",
+     "boyhood",
+     "boys",
+     "cute",
+     "female",
+     "water",
+     "natural",
+     "childhood",
+     "youth",
+     "little",
+     "mate",
+     "pals",
+     "education",
+     "educational",
+     "primary",
+     "series",
+     "object",
+     "people",
+     "relationship",
+     "youthful",
+     "environment",
+     "landscape",
+     "illustration",
+     "vector",
+     "EPS",
+     "cartoon"
+    ]
+   }
+  },
+  "post": 271,
+  "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-2.jpg",
+  "filename": "akad-scaled-2.jpg",
+  "filesize": 435623,
+  "_links": {
+   "self": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media/386",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/types/attachment"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/comments?post=386"
+    }
+   ],
+   "wp:attached-to": [
+    {
+     "embeddable": true,
+     "post_type": "page",
+     "id": 271,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/pages/271"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 385,
+  "date": "2024-09-08T03:13:02",
+  "date_gmt": "2024-09-08T03:13:02",
+  "guid": {
+   "rendered": "https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727.png"
+  },
+  "modified": "2024-09-08T03:13:02",
+  "modified_gmt": "2024-09-08T03:13:02",
+  "slug": "captura-de-pantalla-2024-04-04-024727",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://anglocolombiano.com/home/captura-de-pantalla-2024-04-04-024727/",
+  "title": {
+   "rendered": "Captura-de-pantalla-2024-04-04-024727"
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+   "_themeisle_gutenberg_block_has_review": false
+  },
+  "class_list": [
+   "post-385",
+   "attachment",
+   "type-attachment",
+   "status-inherit",
+   "hentry"
+  ],
+  "description": {
+   "rendered": "<p class=\"attachment\"><a href='https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727.png'><img decoding=\"async\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-300x298.png\" data-srcset=\"https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-300x298.png 300w, https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-70x70.png 70w, https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-125x125.png 125w, https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-150x150.png 150w, https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727.png 514w\" width=\"300\" height=\"298\" class=\"attachment-medium size-medium lazyload\" alt=\"\" sizes=\"(max-width: 300px) 100vw, 300px\"><noscript><img decoding=\"async\" width=\"300\" height=\"298\" src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-300x298.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-300x298.png 300w, https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-70x70.png 70w, https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-125x125.png 125w, https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-150x150.png 150w, https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727.png 514w\" sizes=\"(max-width: 300px) 100vw, 300px\"></noscript></a></p>\n"
+  },
+  "caption": {
+   "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/png",
+  "media_details": {
+   "width": 514,
+   "height": 511,
+   "file": "2024/09/Captura-de-pantalla-2024-04-04-024727.png",
+   "filesize": 446735,
+   "sizes": {
+    "education-zone-image-full": {
+     "file": "Captura-de-pantalla-2024-04-04-024727-514x458.png",
+     "width": 514,
+     "height": 458,
+     "filesize": 382790,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-514x458.png"
+    },
+    "education-zone-image": {
+     "file": "Captura-de-pantalla-2024-04-04-024727-514x458.png",
+     "width": 514,
+     "height": 458,
+     "filesize": 382790,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-514x458.png"
+    },
+    "education-zone-recent-post": {
+     "file": "Captura-de-pantalla-2024-04-04-024727-70x70.png",
+     "width": 70,
+     "height": 70,
+     "filesize": 11100,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-70x70.png"
+    },
+    "education-zone-search-result": {
+     "file": "Captura-de-pantalla-2024-04-04-024727-246x246.png",
+     "width": 246,
+     "height": 246,
+     "filesize": 110768,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-246x246.png"
+    },
+    "education-zone-featured-course": {
+     "file": "Captura-de-pantalla-2024-04-04-024727-276x276.png",
+     "width": 276,
+     "height": 276,
+     "filesize": 135537,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-276x276.png"
+    },
+    "education-zone-testimonial": {
+     "file": "Captura-de-pantalla-2024-04-04-024727-125x125.png",
+     "width": 125,
+     "height": 125,
+     "filesize": 32442,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-125x125.png"
+    },
+    "education-zone-blog-full": {
+     "file": "Captura-de-pantalla-2024-04-04-024727-514x480.png",
+     "width": 514,
+     "height": 480,
+     "filesize": 393775,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-514x480.png"
+    },
+    "thumbnail": {
+     "file": "Captura-de-pantalla-2024-04-04-024727-150x150.png",
+     "width": 150,
+     "height": 150,
+     "filesize": 45581,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-150x150.png"
+    },
+    "medium": {
+     "file": "Captura-de-pantalla-2024-04-04-024727-300x298.png",
+     "width": 300,
+     "height": 298,
+     "filesize": 155439,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727-300x298.png"
+    },
+    "full": {
+     "file": "Captura-de-pantalla-2024-04-04-024727.png",
+     "width": 514,
+     "height": 511,
+     "mime_type": "image/png",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727.png"
+    }
+   },
+   "image_meta": {
+    "aperture": "0",
+    "credit": "",
+    "camera": "",
+    "caption": "",
+    "created_timestamp": "0",
+    "copyright": "",
+    "focal_length": "0",
+    "iso": "0",
+    "shutter_speed": "0",
+    "title": "",
+    "orientation": "0",
+    "keywords": []
+   }
+  },
+  "post": 271,
+  "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-04-04-024727.png",
+  "filename": "Captura-de-pantalla-2024-04-04-024727.png",
+  "filesize": 446735,
+  "_links": {
+   "self": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media/385",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/types/attachment"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/comments?post=385"
+    }
+   ],
+   "wp:attached-to": [
+    {
+     "embeddable": true,
+     "post_type": "page",
+     "id": 271,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/pages/271"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 382,
+  "date": "2024-09-08T03:05:27",
+  "date_gmt": "2024-09-08T03:05:27",
+  "guid": {
+   "rendered": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-1.jpg"
+  },
+  "modified": "2024-09-08T03:05:27",
+  "modified_gmt": "2024-09-08T03:05:27",
+  "slug": "banner-template-design-with-children-in-the-park",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://anglocolombiano.com/home/banner-template-design-with-children-in-the-park/",
+  "title": {
+   "rendered": "Banner template design with children in the park"
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+   "_themeisle_gutenberg_block_has_review": false
+  },
+  "class_list": [
+   "post-382",
+   "attachment",
+   "type-attachment",
+   "status-inherit",
+   "hentry"
+  ],
+  "description": {
+   "rendered": "<p class=\"attachment\"><a href='https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-1.jpg'><img decoding=\"async\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-1-300x172.jpg\" data-srcset=\"https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-1-300x172.jpg 300w, https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-1-768x439.jpg 768w, https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-1-1024x586.jpg 1024w, https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-1-1536x878.jpg 1536w, https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-1-2048x1171.jpg 2048w\" width=\"300\" height=\"172\" class=\"attachment-medium size-medium lazyload\" alt=\"\" sizes=\"(max-width: 300px) 100vw, 300px\"><noscript><img decoding=\"async\" width=\"300\" height=\"172\" src=\"https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-1-300x172.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-1-300x172.jpg 300w, https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-1-768x439.jpg 768w, https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-1-1024x586.jpg 1024w, https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-1-1536x878.jpg 1536w, https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-1-2048x1171.jpg 2048w\" sizes=\"(max-width: 300px) 100vw, 300px\"></noscript></a></p>\n"
+  },
+  "caption": {
+   "rendered": "<p>Banner template design with children in the park illustration</p>\n"
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+   "width": 2560,
+   "height": 1464,
+   "file": "2024/09/akad-scaled-1.jpg",
+   "filesize": 435623,
+   "sizes": {
+    "education-zone-banner": {
+     "file": "akad-scaled-1-1920x692.jpg",
+     "width": 1920,
+     "height": 692,
+     "filesize": 180870,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-1-1920x692.jpg"
+    },
+    "education-zone-image-full": {
+     "file": "akad-scaled-1-1140x458.jpg",
+     "width": 1140,
+     "height": 458,
+     "filesize": 95088,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-1-1140x458.jpg"
+    },
+    "education-zone-image": {
+     "file": "akad-scaled-1-750x458.jpg",
+     "width": 750,
+     "height": 458,
+     "filesize": 77480,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-1-750x458.jpg"
+    },
+    "education-zone-recent-post": {
+     "file": "akad-scaled-1-70x70.jpg",
+     "width": 70,
+     "height": 70,
+     "filesize": 2883,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-1-70x70.jpg"
+    },
+    "education-zone-search-result": {
+     "file": "akad-scaled-1-246x246.jpg",
+     "width": 246,
+     "height": 246,
+     "filesize": 16903,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-1-246x246.jpg"
+    },
+    "education-zone-featured-course": {
+     "file": "akad-scaled-1-276x276.jpg",
+     "width": 276,
+     "height": 276,
+     "filesize": 19727,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-1-276x276.jpg"
+    },
+    "education-zone-testimonial": {
+     "file": "akad-scaled-1-125x125.jpg",
+     "width": 125,
+     "height": 125,
+     "filesize": 6049,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-1-125x125.jpg"
+    },
+    "education-zone-blog-full": {
+     "file": "akad-scaled-1-848x480.jpg",
+     "width": 848,
+     "height": 480,
+     "filesize": 87312,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-1-848x480.jpg"
+    },
+    "thumbnail": {
+     "file": "akad-scaled-1-150x150.jpg",
+     "width": 150,
+     "height": 150,
+     "filesize": 7939,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-1-150x150.jpg"
+    },
+    "medium": {
+     "file": "akad-scaled-1-300x172.jpg",
+     "width": 300,
+     "height": 172,
+     "filesize": 18413,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-1-300x172.jpg"
+    },
+    "medium_large": {
+     "file": "akad-scaled-1-768x439.jpg",
+     "width": 768,
+     "height": 439,
+     "filesize": 76361,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-1-768x439.jpg"
+    },
+    "large": {
+     "file": "akad-scaled-1-1024x586.jpg",
+     "width": 1024,
+     "height": 586,
+     "filesize": 117537,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-1-1024x586.jpg"
+    },
+    "1536x1536": {
+     "file": "akad-scaled-1-1536x878.jpg",
+     "width": 1536,
+     "height": 878,
+     "filesize": 206274,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-1-1536x878.jpg"
+    },
+    "2048x2048": {
+     "file": "akad-scaled-1-2048x1171.jpg",
+     "width": 2048,
+     "height": 1171,
+     "filesize": 307922,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-1-2048x1171.jpg"
+    },
+    "neve-blog": {
+     "file": "akad-scaled-1-930x620.jpg",
+     "width": 930,
+     "height": 620,
+     "filesize": 107647,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-1-930x620.jpg"
+    },
+    "full": {
+     "file": "akad-scaled-1.jpg",
+     "width": 2560,
+     "height": 1464,
+     "mime_type": "image/jpeg",
+     "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-1.jpg"
+    }
+   },
+   "image_meta": {
+    "aperture": "0",
+    "credit": "",
+    "camera": "",
+    "caption": "Banner template design with children in the park illustration",
+    "created_timestamp": "0",
+    "copyright": "",
+    "focal_length": "0",
+    "iso": "0",
+    "shutter_speed": "0",
+    "title": "Banner template design with children in the park",
+    "orientation": "1",
+    "keywords": [
+     "board",
+     "sign",
+     "isolated",
+     "kids",
+     "children",
+     "frame",
+     "student",
+     "boy",
+     "girl",
+     "tree",
+     "park",
+     "child",
+     "friend",
+     "school",
+     "diversity",
+     "group",
+     "many",
+     "friends",
+     "blank",
+     "scene",
+     "outside",
+     "signage",
+     "border",
+     "pupil",
+     "male",
+     "boyhood",
+     "boys",
+     "cute",
+     "female",
+     "water",
+     "natural",
+     "childhood",
+     "youth",
+     "little",
+     "mate",
+     "pals",
+     "education",
+     "educational",
+     "primary",
+     "series",
+     "object",
+     "people",
+     "relationship",
+     "youthful",
+     "environment",
+     "landscape",
+     "illustration",
+     "vector",
+     "EPS",
+     "cartoon"
+    ]
+   }
+  },
+  "post": 271,
+  "source_url": "https://anglocolombiano.com/wp-content/uploads/2024/09/akad-scaled-1.jpg",
+  "filename": "akad-scaled-1.jpg",
+  "filesize": 435623,
+  "_links": {
+   "self": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media/382",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/media"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/types/attachment"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/comments?post=382"
+    }
+   ],
+   "wp:attached-to": [
+    {
+     "embeddable": true,
+     "post_type": "page",
+     "id": 271,
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/pages/271"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ }
+]

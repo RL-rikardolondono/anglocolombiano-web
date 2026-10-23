@@ -1,0 +1,227 @@
+[
+ {
+  "id": 2,
+  "count": 0,
+  "description": "",
+  "link": "https://anglocolombiano.com/category/pet-care/",
+  "name": "Pet Care",
+  "slug": "pet-care",
+  "taxonomy": "category",
+  "parent": 0,
+  "meta": [],
+  "_links": {
+   "self": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/categories/2",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/categories"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/taxonomies/category"
+    }
+   ],
+   "wp:post_type": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/posts?categories=2"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 3,
+  "count": 0,
+  "description": "",
+  "link": "https://anglocolombiano.com/category/pets-world/",
+  "name": "Pets World",
+  "slug": "pets-world",
+  "taxonomy": "category",
+  "parent": 0,
+  "meta": [],
+  "_links": {
+   "self": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/categories/3",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/categories"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/taxonomies/category"
+    }
+   ],
+   "wp:post_type": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/posts?categories=3"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 1,
+  "count": 1,
+  "description": "",
+  "link": "https://anglocolombiano.com/category/sin-categoria/",
+  "name": "Sin categoría",
+  "slug": "sin-categoria",
+  "taxonomy": "category",
+  "parent": 0,
+  "meta": [],
+  "_links": {
+   "self": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/categories/1",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/categories"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/taxonomies/category"
+    }
+   ],
+   "wp:post_type": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/posts?categories=1"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 4,
+  "count": 0,
+  "description": "",
+  "link": "https://anglocolombiano.com/category/uncategorised/",
+  "name": "Uncategorised",
+  "slug": "uncategorised",
+  "taxonomy": "category",
+  "parent": 0,
+  "meta": [],
+  "_links": {
+   "self": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/categories/4",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/categories"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/taxonomies/category"
+    }
+   ],
+   "wp:post_type": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/posts?categories=4"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 5,
+  "count": 0,
+  "description": "",
+  "link": "https://anglocolombiano.com/category/uncategorized/",
+  "name": "Uncategorized",
+  "slug": "uncategorized",
+  "taxonomy": "category",
+  "parent": 0,
+  "meta": [],
+  "_links": {
+   "self": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/categories/5",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/categories"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/taxonomies/category"
+    }
+   ],
+   "wp:post_type": [
+    {
+     "href": "https://anglocolombiano.com/wp-json/wp/v2/posts?categories=5"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ }
+]

@@ -1,0 +1,54 @@
+{
+ "noticias": [
+  {
+   "id": "arte-para-sonar",
+   "fecha": "2022-06-04",
+   "titulo": "Arte para Soñar: Expresiones de la Infancia",
+   "texto": "En 2022, la Fundación Reina Elizabeth ONG desarrolló una experiencia piloto de circulación artística para primeras infancias en alianza con el Colegio Anglocolombiano. La exposición reunió 48 obras creadas por niños y niñas entre 6 y 10 años.",
+   "foto": "/img/arte-collage.jpg",
+   "enlace": "/arte-para-sonar-expresiones-de-la-infancia/",
+   "textoEnlace": "Ver el proyecto",
+   "video": ""
+  }
+ ],
+ "eventos": [],
+ "videos": [],
+ "galeria": [
+  {
+   "foto": "/img/grupo.jpg",
+   "texto": "Nuestros estudiantes"
+  },
+  {
+   "foto": "/img/mundo-marino.jpg",
+   "texto": "Mundo Marino"
+  },
+  {
+   "foto": "/img/navidad.jpg",
+   "texto": "Celebración de Navidad"
+  },
+  {
+   "foto": "/img/baile.jpg",
+   "texto": "Presentaciones"
+  },
+  {
+   "foto": "/img/salida.jpg",
+   "texto": "Salidas pedagógicas"
+  },
+  {
+   "foto": "/img/circo.jpg",
+   "texto": "Día del circo"
+  },
+  {
+   "foto": "/img/cancha.jpg",
+   "texto": "Nuestra cancha"
+  },
+  {
+   "foto": "/img/arte-1.jpg",
+   "texto": "Arte para Soñar"
+  },
+  {
+   "foto": "/img/revista.jpg",
+   "texto": "Revista Colegios y Jardines"
+  }
+ ]
+}

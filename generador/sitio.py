@@ -1,6 +1,6 @@
 # Contenido de www.anglocolombiano.com (Colegio Cristiano Anglocolombiano). Lo usa generador/build.py.
 WA = '573011346868'
-RAIZ = 'https://anglocolombiano.com'   # se queda en SiteGround solo para el campus virtual (Moodle), Dolibarr y la escuela musical
+RAIZ = 'https://anglocolombiano.com'   # se queda en SiteGround solo para el campus virtual (Moodle)
 CAMPUS = f'{RAIZ}/campusvirtualanglo/login/index.php'
 COLEGIO_IA = 'https://colegio-ia.skynetgenesis.com/'
 WA_INFO = f'https://wa.me/{WA}?text=Hola%2C%20quiero%20informaci%C3%B3n%20sobre%20inscripciones%20en%20el%20Anglocolombiano'
@@ -26,7 +26,7 @@ SITIO = {
         'mundo-marino.jpg': '2024/09/images-6.jpeg',
     },
     'carpetas_documentos': {'matriculas': 'Matrículas e inscripciones', 'circulares': 'Circulares a las familias', 'institucional': 'Documentos institucionales (PEI, manual de convivencia)'},
-    'carpetas_en_siteground': ['campusvirtualanglo', 'dolibarr-20.0.2', 'escuelamusical'],
+    'carpetas_en_siteground': ['campusvirtualanglo'],
     'redirecciones': {'/our-clinic/': '/', '/home/': '/', '/category/sin-categoria/': '/noticias/', '/wp-admin/': '/admin/', '/wp-login.php': '/admin/'},
     'menu_derecha': 'Funcionarios',
     'menu': [
@@ -37,7 +37,7 @@ SITIO = {
         ('Proyectos y eventos', [('Arte para Soñar: Expresiones de la Infancia', '/arte-para-sonar-expresiones-de-la-infancia/'), ('Noticias y eventos', '/noticias/')]),
         ('Campus virtual', CAMPUS),
         ('Funcionarios', [('Agenda-IA', 'https://agenda-ia.skynetgenesis.com/', 'Agenda de trabajo y tareas'), ('Colegio-IA', COLEGIO_IA, 'Plataforma académica del colegio'),
-                          ('Facturación SIIGO', 'https://siigonube.siigo.com/#/dashboard/1055'), ('Dolibarr', f'{RAIZ}/dolibarr-20.0.2/dolibarr-20.0.2/htdocs/index.php'),
+                          ('Facturación SIIGO', 'https://siigonube.siigo.com/#/dashboard/1055'),
                           ('Campus virtual (administración)', f'{RAIZ}/campusvirtualanglo/admin'), ('Ver todas las herramientas', '/funcionarios/')]),
     ],
     'pie': [
